@@ -20,6 +20,12 @@
 			"path": "/svg/",
 			"ext": ".svg",
 			"desc": "Airfoils as SVG images"
+		},
+		{
+			"type": "application/json",
+			"path": "/json/",
+			"ext": ".json",
+			"desc": "Airfoils in json data format"
 		}
 	],
 	"files": [{
