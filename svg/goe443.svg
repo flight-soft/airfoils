@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-goe443"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.025, 1, 0.05"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>GOE 443 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0065L0.8,-0.0115L0.7,-0.0165L0.6,-0.0205L0.5,-0.0235L0.4,-0.025L0.3,-0.025L0.2,-0.0215L0.1,-0.016L0.075,-0.014L0.05,-0.0115L0.025,-0.0085L0.0125,-0.006L0,-0L0.0125,0.006L0.025,0.0085L0.05,0.0115L0.075,0.014L0.1,0.016L0.2,0.0215L0.3,0.025L0.4,0.025L0.5,0.0235L0.6,0.0205L0.7,0.0165L0.8,0.0115L0.9,0.0065L1,-0"
+    />
+</svg>

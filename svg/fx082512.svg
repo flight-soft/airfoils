@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-fx082512"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0792, 1, 0.1279"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>WORTMANN FX 082-512 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.983,-0.0092L0.933,-0.0248L0.8536,-0.0428L0.75,-0.0601L0.6294,-0.0729L0.5,-0.0792L0.3706,-0.0776L0.25,-0.0693L0.1464,-0.0544L0.067,-0.0356L0.017,-0.0183L0,-0L0.017,0.018L0.067,0.033L0.1464,0.0463L0.25,0.0487L0.3706,0.0281L0.5,0.0059L0.6294,-0.0102L0.75,-0.019L0.8536,-0.0197L0.933,-0.0139L0.983,-0.0052L1,-0"
+    />
+</svg>

@@ -1,0 +1,16 @@
+
+<svg 
+  class="airfoil-marske3"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0863, 1, 0.1286"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>MARSKE PIONEER IID ROOT AIRFOIL</title>
+    <desc># NACA 431012A/24112 HYBRID</desc>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0128L0.8,-0.0248L0.7,-0.0366L0.6,-0.0508L0.5,-0.0637L0.4,-0.0744L0.3,-0.0825L0.25,-0.0851L0.2,-0.0863L0.15,-0.0845L0.1,-0.077L0.075,-0.0697L0.05,-0.0594L0.025,-0.0437L0.0125,-0.0322L0,-0L0.0125,0.009L0.025,0.0123L0.05,0.0173L0.075,0.0213L0.1,0.0245L0.15,0.0293L0.2,0.0331L0.25,0.0355L0.3,0.0381L0.4,0.0418L0.5,0.0423L0.6,0.0415L0.7,0.0364L0.8,0.0265L0.9,0.0141L1,-0"
+    />
+</svg>

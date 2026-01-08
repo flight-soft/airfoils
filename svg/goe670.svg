@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-goe670"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0786, 1, 0.100999996"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>GOE 670 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0224L0.8,-0.0417L0.7,-0.0571L0.6,-0.0674L0.5,-0.0758L0.4,-0.0786L0.3,-0.0769L0.2,-0.0703L0.1,-0.0547L0.075,-0.0471L0.05,-0.0381L0.025,-0.025L0.0125,-0.0168L0,-0L0.0125,0.0147L0.025,0.019L0.05,0.0219L0.075,0.0224L0.1,0.0214L0.2,0.0172L0.3,0.0131L0.4,0.0109L0.5,0.0098L0.6,0.0091L0.7,0.0089L0.8,0.0063L0.9,0.0037L1,-0"
+    />
+</svg>

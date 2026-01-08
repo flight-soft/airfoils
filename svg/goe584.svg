@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-goe584"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.111, 1, 0.1357"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>GOE 584 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0237L0.8,-0.0465L0.7,-0.0688L0.6,-0.088L0.5,-0.1028L0.4,-0.111L0.3,-0.1107L0.2,-0.101L0.1,-0.0768L0.05,-0.0549L0.025,-0.0372L0,-0L0.025,0.0198L0.05,0.0236L0.1,0.0247L0.2,0.021L0.3,0.0162L0.4,0.012L0.5,0.0093L0.6,0.0065L0.7,0.0043L0.8,0.0025L0.9,0.0012L1,-0"
+    />
+</svg>

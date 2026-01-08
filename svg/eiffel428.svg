@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-eiffel428"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.095, 1, 0.095"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>Eiffel 428 (Bleriot)</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.0115L0.9,-0.021L0.8,-0.04L0.7,-0.058L0.6,-0.075L0.5,-0.088L0.4,-0.095L0.3,-0.095L0.2,-0.085L0.15,-0.0777L0.1,-0.065L0.075,-0.0602L0.05,-0.048L0.025,-0.0375L0.0125,-0.031L0,-0.015L0.0125,-0.0028L0.025,-0L0.05,-0L0.075,-0L0.1,-0L0.15,-0L0.2,-0.002L0.3,-0.0055L0.4,-0.007L0.5,-0.008L0.6,-0.008L0.7,-0.007L0.8,-0.005L0.9,-0.002L0.95,-0L1,-0"
+    />
+</svg>

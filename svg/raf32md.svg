@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-raf32md"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0882, 1, 0.111"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>RAF 32 MOD AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0252L0.8,-0.0462L0.7,-0.0639L0.6,-0.0769L0.5,-0.0853L0.4,-0.0882L0.3,-0.0845L0.2,-0.0734L0.15,-0.0646L0.1,-0.053L0.05,-0.0366L0.025,-0.0255L0.0125,-0.0174L0,-0L0.0125,0.0114L0.025,0.0147L0.05,0.0191L0.1,0.0224L0.15,0.0228L0.2,0.0221L0.3,0.0171L0.4,0.0112L0.5,0.0062L0.6,-0.0001L0.7,-0.0039L0.8,-0.0054L0.9,-0.0038L1,-0"
+    />
+</svg>

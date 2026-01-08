@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-dormoy"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.09, 1, 0.09"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>Dormoy</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.0105L0.9,-0.02L0.8,-0.0367L0.7,-0.054L0.6,-0.0687L0.5,-0.08L0.4,-0.0873L0.3,-0.09L0.2,-0.088L0.15,-0.082L0.1,-0.0733L0.075,-0.0635L0.05,-0.0535L0.025,-0.0445L0.0125,-0.036L0,-0.0247L0.0125,-0.02L0.025,-0.017L0.05,-0.012L0.075,-0.0085L0.1,-0.0053L0.15,-0.0035L0.2,-0.0027L0.3,-0L0.4,-0L0.5,-0L0.6,-0L0.7,-0L0.8,-0L0.9,-0L0.95,-0L1,-0"
+    />
+</svg>

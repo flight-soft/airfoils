@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-fx049915"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.1318, 1, 0.1477"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>WORTMANN FX 049-915 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.983,-0.0047L0.933,-0.014L0.8536,-0.0275L0.75,-0.0487L0.6294,-0.0752L0.5,-0.1059L0.3706,-0.1318L0.25,-0.1273L0.1464,-0.1029L0.067,-0.0686L0.017,-0.0319L0,-0L0.017,0.0105L0.067,0.0144L0.1464,0.0153L0.25,0.0159L0.3706,0.0154L0.5,0.0142L0.6294,0.012L0.75,0.0094L0.8536,0.007L0.933,0.0043L0.983,0.0019L1,-0"
+    />
+</svg>

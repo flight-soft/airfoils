@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-rhodesg34"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.1407, 1, 0.1407"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>Rhode St. Genese 34</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.0152L0.9,-0.0293L0.8,-0.0565L0.7,-0.0845L0.6,-0.1061L0.5,-0.1235L0.4,-0.1343L0.3,-0.1407L0.2,-0.1386L0.15,-0.1285L0.1,-0.1137L0.075,-0.104L0.05,-0.0896L0.025,-0.0737L0.0125,-0.062L0,-0.0347L0.0125,-0.014L0.025,-0.0086L0.05,-0.0044L0.075,-0.0022L0.1,-0L0.15,-0L0.2,-0L0.3,-0L0.4,-0L0.5,-0L0.6,-0L0.7,-0L0.8,-0L0.9,-0L0.95,-0L1,-0"
+    />
+</svg>

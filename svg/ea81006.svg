@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-ea81006"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.03, 1, 0.06"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>EPPLER EA 8(-1)-006 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.0036L0.9,-0.0074L0.8,-0.0148L0.7,-0.0212L0.6,-0.0255L0.5,-0.028L0.4,-0.0298L0.3,-0.03L0.2,-0.0288L0.1,-0.0238L0.05,-0.0178L0.01,-0.01L0,-0L0.01,0.01L0.05,0.0178L0.1,0.0238L0.2,0.0288L0.3,0.03L0.4,0.0298L0.5,0.028L0.6,0.0255L0.7,0.0212L0.8,0.0148L0.9,0.0074L0.95,0.0036L1,-0"
+    />
+</svg>

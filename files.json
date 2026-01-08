@@ -1,0 +1,6614 @@
+{
+	"version": "2026-01-08",
+	"sources": [{
+			"name": "jsdelivr",
+			"url": "https://cdn.jsdelivr.net/gh/flight-soft/airfoils@main"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://raw.githubusercontent.com/flight-soft/airfoils/refs/heads/main"
+		}
+	],
+	"folders": [{
+			"type": "text/plain",
+			"path": "/dat/",
+			"ext": ".dat",
+			"desc": "Airfoils in Selig format"
+		},
+		{
+			"type": "image/svg+xml",
+			"path": "/svg/",
+			"ext": ".svg",
+			"desc": "Airfoils as SVG images"
+		}
+	],
+	"files": [{
+			"name": "2032c",
+			"desc": "20-32C"
+		},
+		{
+			"name": "30p-30n",
+			"desc": "30P-30N"
+		},
+		{
+			"name": "a18",
+			"desc": "A18"
+		},
+		{
+			"name": "a18sm",
+			"desc": "A18 Smoothed"
+		},
+		{
+			"name": "a63a108c",
+			"desc": "63A108 MOD C"
+		},
+		{
+			"name": "ag03",
+			"desc": "AG03"
+		},
+		{
+			"name": "ag04",
+			"desc": "AG04"
+		},
+		{
+			"name": "ag08",
+			"desc": "AG08"
+		},
+		{
+			"name": "ag09",
+			"desc": "AG09"
+		},
+		{
+			"name": "ag10",
+			"desc": "AG10"
+		},
+		{
+			"name": "ag11",
+			"desc": "AG11"
+		},
+		{
+			"name": "ag12",
+			"desc": "AG12"
+		},
+		{
+			"name": "ag13",
+			"desc": "AG13"
+		},
+		{
+			"name": "ag14",
+			"desc": "AG14"
+		},
+		{
+			"name": "ag16",
+			"desc": "AG16"
+		},
+		{
+			"name": "ag17",
+			"desc": "AG17"
+		},
+		{
+			"name": "ag18",
+			"desc": "AG18"
+		},
+		{
+			"name": "ag19",
+			"desc": "AG19"
+		},
+		{
+			"name": "ag23",
+			"desc": "AG23"
+		},
+		{
+			"name": "ag24",
+			"desc": "AG24"
+		},
+		{
+			"name": "ag25",
+			"desc": "AG25"
+		},
+		{
+			"name": "ag26",
+			"desc": "AG26"
+		},
+		{
+			"name": "ag27",
+			"desc": "AG27"
+		},
+		{
+			"name": "ag35",
+			"desc": "AG35"
+		},
+		{
+			"name": "ag36",
+			"desc": "AG36"
+		},
+		{
+			"name": "ag37",
+			"desc": "AG37"
+		},
+		{
+			"name": "ag38",
+			"desc": "AG38"
+		},
+		{
+			"name": "ag44ct02r",
+			"desc": "AG44ct -02f"
+		},
+		{
+			"name": "ag455ct02r",
+			"desc": "AG455ct -02f rot."
+		},
+		{
+			"name": "ag45c03",
+			"desc": "AG45c -03f"
+		},
+		{
+			"name": "ag45ct02r",
+			"desc": "AG45ct -02f"
+		},
+		{
+			"name": "ag46c03",
+			"desc": "AG46c -03f"
+		},
+		{
+			"name": "ag46ct02r",
+			"desc": "AG46ct -02f rot."
+		},
+		{
+			"name": "ag47c03",
+			"desc": "AG47c -03f"
+		},
+		{
+			"name": "ag47ct02r",
+			"desc": "AG47ct -02f rot."
+		},
+		{
+			"name": "ag52",
+			"desc": "AG52"
+		},
+		{
+			"name": "ag53",
+			"desc": "AG53"
+		},
+		{
+			"name": "ag54",
+			"desc": "AG54"
+		},
+		{
+			"name": "ag55",
+			"desc": "AG55"
+		},
+		{
+			"name": "ah21-7",
+			"desc": "AH21 7% version (Andrew Hollom)"
+		},
+		{
+			"name": "ah21-9",
+			"desc": "AH21 9% version (Andrew Hollom)"
+		},
+		{
+			"name": "ah63k127",
+			"desc": "AH 63-K-127/24"
+		},
+		{
+			"name": "ah6407",
+			"desc": "AH-6-40-7"
+		},
+		{
+			"name": "ah7476",
+			"desc": "AH-7-47-6"
+		},
+		{
+			"name": "ah79100a",
+			"desc": "AH 79-100 A"
+		},
+		{
+			"name": "ah79100b",
+			"desc": "AH 79-100 B"
+		},
+		{
+			"name": "ah79100c",
+			"desc": "AH 79-100 C"
+		},
+		{
+			"name": "ah79k132",
+			"desc": "AH 79-K-132/20"
+		},
+		{
+			"name": "ah79k135",
+			"desc": "AH 79-K-135/20 B"
+		},
+		{
+			"name": "ah79k143",
+			"desc": "AH 79-K-143/18"
+		},
+		{
+			"name": "ah80129",
+			"desc": "AH 80-129"
+		},
+		{
+			"name": "ah80136",
+			"desc": "AH 80-136"
+		},
+		{
+			"name": "ah80140",
+			"desc": "AH 80-140"
+		},
+		{
+			"name": "ah81131",
+			"desc": "AH 81-131"
+		},
+		{
+			"name": "ah81k144",
+			"desc": "AH 81-K-144/17"
+		},
+		{
+			"name": "ah81k144wfKlappe",
+			"desc": "AH 81-K-144 W-F KLAPPE"
+		},
+		{
+			"name": "ah82150a",
+			"desc": "AH 82-150 A"
+		},
+		{
+			"name": "ah82150f",
+			"desc": "AH 82-150 F"
+		},
+		{
+			"name": "ah83150q",
+			"desc": "AH 83-150 Q"
+		},
+		{
+			"name": "ah83159",
+			"desc": "AH 83-159"
+		},
+		{
+			"name": "ah85l120",
+			"desc": "AH 85-L-120/17"
+		},
+		{
+			"name": "ah88k130",
+			"desc": "AH 88-K-130/20"
+		},
+		{
+			"name": "ah88k136",
+			"desc": "AH 88-K-136/16"
+		},
+		{
+			"name": "ah93156",
+			"desc": "AH 93-156"
+		},
+		{
+			"name": "ah93157",
+			"desc": "AH 93-157"
+		},
+		{
+			"name": "ah93k130",
+			"desc": "AH 93-K-130/15"
+		},
+		{
+			"name": "ah93k131",
+			"desc": "AH 93-K-131/15"
+		},
+		{
+			"name": "ah93k132",
+			"desc": "AH 93-K-132/15"
+		},
+		{
+			"name": "ah93w145",
+			"desc": "AH 93-W-145"
+		},
+		{
+			"name": "ah93w174",
+			"desc": "AH 93-W-174"
+		},
+		{
+			"name": "ah93w215",
+			"desc": "AH 93-W-215"
+		},
+		{
+			"name": "ah93w257",
+			"desc": "AH 93-W-257"
+		},
+		{
+			"name": "ah93w300",
+			"desc": "AH 93-W-300"
+		},
+		{
+			"name": "ah93w480b",
+			"desc": "AH 93-W-480B"
+		},
+		{
+			"name": "ah94145",
+			"desc": "AH 94-145"
+		},
+		{
+			"name": "ah94156",
+			"desc": "AH 94-156"
+		},
+		{
+			"name": "ah94w301",
+			"desc": "AH 94-W-301"
+		},
+		{
+			"name": "ah95160",
+			"desc": "AH 95-160"
+		},
+		{
+			"name": "ames01",
+			"desc": "NASA/AMES A-01"
+		},
+		{
+			"name": "ames02",
+			"desc": "NASA/AMES A-02"
+		},
+		{
+			"name": "ames03",
+			"desc": "NASA/AMES A-03"
+		},
+		{
+			"name": "amsoil1",
+			"desc": "RUTAN CANARD"
+		},
+		{
+			"name": "amsoil2",
+			"desc": "RUTAN WING"
+		},
+		{
+			"name": "apex16",
+			"desc": "Apex 16"
+		},
+		{
+			"name": "apex16_NASA_CR-201062",
+			"desc": "Apex 16 NASA CR-201062"
+		},
+		{
+			"name": "aquilasm",
+			"desc": "AQUILA 9.3% Smoothed"
+		},
+		{
+			"name": "arad10",
+			"desc": "ARA-D 10%"
+		},
+		{
+			"name": "arad13",
+			"desc": "ARA-D 13%"
+		},
+		{
+			"name": "arad20",
+			"desc": "ARA-D 20%"
+		},
+		{
+			"name": "arad6",
+			"desc": "ARA-D 6%"
+		},
+		{
+			"name": "as5045",
+			"desc": "AS5045 (15%)"
+		},
+		{
+			"name": "as5046",
+			"desc": "AS5046 (16%)"
+		},
+		{
+			"name": "as5048",
+			"desc": "AS5048 (18%)"
+		},
+		{
+			"name": "as6091",
+			"desc": "AS6091"
+		},
+		{
+			"name": "as6092",
+			"desc": "AS6092"
+		},
+		{
+			"name": "as6093",
+			"desc": "AS6093"
+		},
+		{
+			"name": "as6094",
+			"desc": "AS6094"
+		},
+		{
+			"name": "as6095",
+			"desc": "AS6095"
+		},
+		{
+			"name": "as6096",
+			"desc": "AS6096"
+		},
+		{
+			"name": "as6097",
+			"desc": "AS6097"
+		},
+		{
+			"name": "as6098",
+			"desc": "AS6098"
+		},
+		{
+			"name": "as6099",
+			"desc": "AS6099"
+		},
+		{
+			"name": "atr72sm",
+			"desc": "ATR Airfoil Smoothed"
+		},
+		{
+			"name": "august160",
+			"desc": "AUGUST 160"
+		},
+		{
+			"name": "avistar",
+			"desc": "AVISTAR"
+		},
+		{
+			"name": "b29root",
+			"desc": "B-29 ROOT"
+		},
+		{
+			"name": "b29tip",
+			"desc": "B-29 TIP"
+		},
+		{
+			"name": "b540ols",
+			"desc": "BELL 540 AIRFOIL (MODIFIED NACA 0012)"
+		},
+		{
+			"name": "b707a",
+			"desc": "BOEING 707 .08 SPAN"
+		},
+		{
+			"name": "b707b",
+			"desc": "BOEING 707 .19 SPAN"
+		},
+		{
+			"name": "b707c",
+			"desc": "BOEING 707 .40 SPAN"
+		},
+		{
+			"name": "b707d",
+			"desc": "BOEING 707 .54 SPAN"
+		},
+		{
+			"name": "b707e",
+			"desc": "BOEING 707 .99 SPAN"
+		},
+		{
+			"name": "b737a",
+			"desc": "BOEING 737 ROOT"
+		},
+		{
+			"name": "b737b",
+			"desc": "BOEING 737 MIDSPAN"
+		},
+		{
+			"name": "b737c",
+			"desc": "BOEING 737 MIDSPAN"
+		},
+		{
+			"name": "b737d",
+			"desc": "BOEING 737 OUTBOARD"
+		},
+		{
+			"name": "bacj",
+			"desc": "BOEING AIRFOIL J"
+		},
+		{
+			"name": "bacnlf",
+			"desc": "BOEING HSNLF"
+		},
+		{
+			"name": "bacxxx",
+			"desc": "BOEING BACXXX"
+		},
+		{
+			"name": "bambino6",
+			"desc": "Bambino 6"
+		},
+		{
+			"name": "be50",
+			"desc": "BE50 (original)"
+		},
+		{
+			"name": "be50sm",
+			"desc": "BE50 (Smoothed)"
+		},
+		{
+			"name": "boe103",
+			"desc": "BOEING 103"
+		},
+		{
+			"name": "boe106",
+			"desc": "BOEING 106"
+		},
+		{
+			"name": "bqm34",
+			"desc": "RYAN BQM-34 FIREBEE WING"
+		},
+		{
+			"name": "bte-fk",
+			"desc": "BTE-FK"
+		},
+		{
+			"name": "bw050209",
+			"desc": "BW 05 02 09"
+		},
+		{
+			"name": "bw3",
+			"desc": "Bergey BW-3 (Smoothed)"
+		},
+		{
+			"name": "c141a",
+			"desc": "LOCKHEED C-141 BL0"
+		},
+		{
+			"name": "c141b",
+			"desc": "LOCKHEED C-141 BL113.6"
+		},
+		{
+			"name": "c141c",
+			"desc": "LOCKHEED C-141 BL426.57"
+		},
+		{
+			"name": "c141d",
+			"desc": "LOCKHEED C-141 BL610.61"
+		},
+		{
+			"name": "c141e",
+			"desc": "LOCKHEED C-141 BL761.11"
+		},
+		{
+			"name": "c141f",
+			"desc": "LOCKHEED C-141 BL958.89"
+		},
+		{
+			"name": "c5a",
+			"desc": "LOCKHEED C-5A BL0"
+		},
+		{
+			"name": "c5b",
+			"desc": "LOCKHEED C-5A BL488.2"
+		},
+		{
+			"name": "c5c",
+			"desc": "LOCKHEED C-5A BL576"
+		},
+		{
+			"name": "c5d",
+			"desc": "LOCKHEED C-5A BL758.6"
+		},
+		{
+			"name": "c5e",
+			"desc": "LOCKHEED C-5A BL1256"
+		},
+		{
+			"name": "cal1215j",
+			"desc": "CAL1215j"
+		},
+		{
+			"name": "cal2263m",
+			"desc": "CAL2263m"
+		},
+		{
+			"name": "cal4014l",
+			"desc": "CAL4014l"
+		},
+		{
+			"name": "cap21c",
+			"desc": "CAP 21 (TraCFoil)"
+		},
+		{
+			"name": "cast102",
+			"desc": "CAST 10-2/DOA 2"
+		},
+		{
+			"name": "ch10sm",
+			"desc": "CH10 (Smoothed)"
+		},
+		{
+			"name": "chen",
+			"desc": "CHEN"
+		},
+		{
+			"name": "clarkk",
+			"desc": "CLARK K"
+		},
+		{
+			"name": "clarkv",
+			"desc": "CLARK V"
+		},
+		{
+			"name": "clarkw",
+			"desc": "CLARK W"
+		},
+		{
+			"name": "clarkx",
+			"desc": "CLARK X"
+		},
+		{
+			"name": "clarky",
+			"desc": "CLARK Y"
+		},
+		{
+			"name": "clarkyh",
+			"desc": "CLARK YH"
+		},
+		{
+			"name": "clarkys",
+			"desc": "CLARK YS"
+		},
+		{
+			"name": "clarkysm",
+			"desc": "CLARK-Y 11.7% Smoothed"
+		},
+		{
+			"name": "clarkz",
+			"desc": "CLARK Z"
+		},
+		{
+			"name": "clarym15",
+			"desc": "CLARK YM-15"
+		},
+		{
+			"name": "clarym18",
+			"desc": "CLARK YM-18"
+		},
+		{
+			"name": "coanda1",
+			"desc": "Coanda 1"
+		},
+		{
+			"name": "coanda2",
+			"desc": "Coanda 2"
+		},
+		{
+			"name": "coanda3",
+			"desc": "Coanda 3"
+		},
+		{
+			"name": "cootie",
+			"desc": "WACO COOTIE"
+		},
+		{
+			"name": "cr001sm",
+			"desc": "cr001sm"
+		},
+		{
+			"name": "cr1",
+			"desc": "CURTISS CR-1"
+		},
+		{
+			"name": "curtisc72",
+			"desc": "Curtis C-72"
+		},
+		{
+			"name": "dae11",
+			"desc": "DAE-11"
+		},
+		{
+			"name": "dae21",
+			"desc": "DAE-21"
+		},
+		{
+			"name": "dae31",
+			"desc": "DAE-31"
+		},
+		{
+			"name": "dae51",
+			"desc": "DAE-51"
+		},
+		{
+			"name": "davis",
+			"desc": "Davis"
+		},
+		{
+			"name": "davissm",
+			"desc": "davissm"
+		},
+		{
+			"name": "davis_corrected",
+			"desc": "DAVIS BASIC B-24 WING"
+		},
+		{
+			"name": "daytonwright6",
+			"desc": "Dayton-Wright 6"
+		},
+		{
+			"name": "daytonwrightt1",
+			"desc": "Dayton-Wright T-1"
+		},
+		{
+			"name": "dbln526",
+			"desc": "SIKORSKY DBLN-526"
+		},
+		{
+			"name": "defcnd1",
+			"desc": "DEFIANT CANARD BL20"
+		},
+		{
+			"name": "defcnd2",
+			"desc": "DEFIANT CANARD BL110"
+		},
+		{
+			"name": "defcnd3",
+			"desc": "DEFIANT CANARD BL145"
+		},
+		{
+			"name": "df101",
+			"desc": "DF 101"
+		},
+		{
+			"name": "df102",
+			"desc": "DF102"
+		},
+		{
+			"name": "dfvlrr4",
+			"desc": "DFVLR R-4"
+		},
+		{
+			"name": "dga1138",
+			"desc": "D.G.A. 1138"
+		},
+		{
+			"name": "dga1182",
+			"desc": "D.G.A. 1182"
+		},
+		{
+			"name": "dh4009sm",
+			"desc": "dh4009sm"
+		},
+		{
+			"name": "doa5",
+			"desc": "DORNIER A-5"
+		},
+		{
+			"name": "dormoy",
+			"desc": "Dormoy"
+		},
+		{
+			"name": "drgnfly",
+			"desc": "DRAGONFLY CANARD"
+		},
+		{
+			"name": "ds19",
+			"desc": "DS19 Joe Wurts"
+		},
+		{
+			"name": "ds21",
+			"desc": "DS21 Joe Wurts"
+		},
+		{
+			"name": "dsma523a",
+			"desc": "DSMA-523A"
+		},
+		{
+			"name": "dsma523b",
+			"desc": "DSMA-523B"
+		},
+		{
+			"name": "du-80-141",
+			"desc": "DU 80-141"
+		},
+		{
+			"name": "du-80-176-v1",
+			"desc": "DU 80-176 V1"
+		},
+		{
+			"name": "du84132v",
+			"desc": "DELFT DU84-132V3 AIRFOIL (MEASURED)"
+		},
+		{
+			"name": "du8608418",
+			"desc": "DU86-084/18 8.44%"
+		},
+		{
+			"name": "du861372",
+			"desc": "DU 86-137/25"
+		},
+		{
+			"name": "e1098",
+			"desc": "EPPLER 1098"
+		},
+		{
+			"name": "e1200",
+			"desc": "EPPLER 1200"
+		},
+		{
+			"name": "e1210",
+			"desc": "EPPLER 1210"
+		},
+		{
+			"name": "e1211",
+			"desc": "EPPLER 1211"
+		},
+		{
+			"name": "e1212",
+			"desc": "EPPLER E1212"
+		},
+		{
+			"name": "e1212mod",
+			"desc": "EPPLER E1212MOD"
+		},
+		{
+			"name": "e1213",
+			"desc": "EPPLER 1213"
+		},
+		{
+			"name": "e1214",
+			"desc": "EPPLER 1214"
+		},
+		{
+			"name": "e1230",
+			"desc": "EPPLER 1230"
+		},
+		{
+			"name": "e1233",
+			"desc": "EPPLER 1233"
+		},
+		{
+			"name": "e168",
+			"desc": "E168 (12.45%)"
+		},
+		{
+			"name": "e169",
+			"desc": "E169 (14.4%)"
+		},
+		{
+			"name": "e171",
+			"desc": "(Dicke 12.28%)"
+		},
+		{
+			"name": "e174",
+			"desc": "E174 (Dicke 8.92%)"
+		},
+		{
+			"name": "e176",
+			"desc": "E176 (8.83%)"
+		},
+		{
+			"name": "e178",
+			"desc": "E178 (8.69%)"
+		},
+		{
+			"name": "e180",
+			"desc": "E180 (8.59%)"
+		},
+		{
+			"name": "e182",
+			"desc": "E182 (8.47%)"
+		},
+		{
+			"name": "e184",
+			"desc": "E184 (8.33%)"
+		},
+		{
+			"name": "e186",
+			"desc": "E186 (10.27%)"
+		},
+		{
+			"name": "e193",
+			"desc": "E193 (10.22%)"
+		},
+		{
+			"name": "e195",
+			"desc": "E195 (11.82%)"
+		},
+		{
+			"name": "e197",
+			"desc": "E197 (13.49%)"
+		},
+		{
+			"name": "e201",
+			"desc": "E201 (11.88%)"
+		},
+		{
+			"name": "e203",
+			"desc": "E203 (13.64%)"
+		},
+		{
+			"name": "e205",
+			"desc": "E205 (10.48%)"
+		},
+		{
+			"name": "e207",
+			"desc": "E207 (12.04%)"
+		},
+		{
+			"name": "e209",
+			"desc": "E209 (13.72%)"
+		},
+		{
+			"name": "e210",
+			"desc": "E210 (13.64%)"
+		},
+		{
+			"name": "e211",
+			"desc": "E211 (10.96%)"
+		},
+		{
+			"name": "e212",
+			"desc": "E212 (10.55%)"
+		},
+		{
+			"name": "e214",
+			"desc": "E214 (11.1%)"
+		},
+		{
+			"name": "e216",
+			"desc": "E216 (10.4%)"
+		},
+		{
+			"name": "e220",
+			"desc": "E220 (11.48%)"
+		},
+		{
+			"name": "e221",
+			"desc": "E221 (9.39%)"
+		},
+		{
+			"name": "e222",
+			"desc": "E222 (10.17%)"
+		},
+		{
+			"name": "e224",
+			"desc": "E224 (10.17%)"
+		},
+		{
+			"name": "e226",
+			"desc": "E226 (10.19%)"
+		},
+		{
+			"name": "e228",
+			"desc": "E10(08%)"
+		},
+		{
+			"name": "e230",
+			"desc": "E230 (9.96%)"
+		},
+		{
+			"name": "e231",
+			"desc": "E231"
+		},
+		{
+			"name": "e266",
+			"desc": "EPPLER 266"
+		},
+		{
+			"name": "e297",
+			"desc": "EPPLER 297"
+		},
+		{
+			"name": "e325",
+			"desc": "EPPLER 325"
+		},
+		{
+			"name": "e326",
+			"desc": "EPPLER 326"
+		},
+		{
+			"name": "e327",
+			"desc": "EPPLER 327"
+		},
+		{
+			"name": "e328",
+			"desc": "EPPLER 328"
+		},
+		{
+			"name": "e329",
+			"desc": "EPPLER 329"
+		},
+		{
+			"name": "e330",
+			"desc": "EPPLER 330"
+		},
+		{
+			"name": "e331",
+			"desc": "EPPLER 331"
+		},
+		{
+			"name": "e332",
+			"desc": "EPPLER 332"
+		},
+		{
+			"name": "e333",
+			"desc": "EPPLER 333"
+		},
+		{
+			"name": "e334",
+			"desc": "EPPLER 334"
+		},
+		{
+			"name": "e335",
+			"desc": "EPPLER 335"
+		},
+		{
+			"name": "e336",
+			"desc": "EPPLER 336"
+		},
+		{
+			"name": "e337",
+			"desc": "EPPLER 337"
+		},
+		{
+			"name": "e338",
+			"desc": "EPPLER 338"
+		},
+		{
+			"name": "e339",
+			"desc": "EPPLER 339"
+		},
+		{
+			"name": "e340",
+			"desc": "EPPLER 340"
+		},
+		{
+			"name": "e341",
+			"desc": "EPPLER 341"
+		},
+		{
+			"name": "e342",
+			"desc": "EPPLER 342"
+		},
+		{
+			"name": "e343",
+			"desc": "EPPLER 343"
+		},
+		{
+			"name": "e344",
+			"desc": "EPPLER 344"
+		},
+		{
+			"name": "e360",
+			"desc": "EPPLER 360"
+		},
+		{
+			"name": "e361",
+			"desc": "EPPLER 361"
+		},
+		{
+			"name": "e374",
+			"desc": "E374"
+		},
+		{
+			"name": "e376",
+			"desc": "EPPLER 376"
+		},
+		{
+			"name": "e377",
+			"desc": "EPPLER 377"
+		},
+		{
+			"name": "e377m",
+			"desc": "EPPLER 377 (MODIFIED)"
+		},
+		{
+			"name": "e378",
+			"desc": "EPPLER 378"
+		},
+		{
+			"name": "e379",
+			"desc": "EPPLER 379"
+		},
+		{
+			"name": "e385",
+			"desc": "E385 (8.41%)"
+		},
+		{
+			"name": "e387",
+			"desc": "E387"
+		},
+		{
+			"name": "e392",
+			"desc": "E392 (10.15%)"
+		},
+		{
+			"name": "e393",
+			"desc": "EPPLER 393"
+		},
+		{
+			"name": "e395",
+			"desc": "EPPLER 395"
+		},
+		{
+			"name": "e396",
+			"desc": "EPPLER 396"
+		},
+		{
+			"name": "e397",
+			"desc": "EPPLER 397"
+		},
+		{
+			"name": "e398",
+			"desc": "EPPLER 398"
+		},
+		{
+			"name": "e399",
+			"desc": "EPPLER 399"
+		},
+		{
+			"name": "e403",
+			"desc": "EPPLER 403"
+		},
+		{
+			"name": "e407",
+			"desc": "EPPLER 407"
+		},
+		{
+			"name": "e417",
+			"desc": "EPPLER 417"
+		},
+		{
+			"name": "e420",
+			"desc": "EPPLER 420"
+		},
+		{
+			"name": "e421",
+			"desc": "EPPLER 421"
+		},
+		{
+			"name": "e422",
+			"desc": "EPPLER 422"
+		},
+		{
+			"name": "e423",
+			"desc": "E423"
+		},
+		{
+			"name": "e426",
+			"desc": "EPPLER 426"
+		},
+		{
+			"name": "e428",
+			"desc": "EPPLER 428"
+		},
+		{
+			"name": "e431",
+			"desc": "EPPLER 431"
+		},
+		{
+			"name": "e432",
+			"desc": "EPPLER 432"
+		},
+		{
+			"name": "e433",
+			"desc": "EPPLER 433"
+		},
+		{
+			"name": "e434",
+			"desc": "EPPLER 434"
+		},
+		{
+			"name": "e435",
+			"desc": "EPPLER 435"
+		},
+		{
+			"name": "e471",
+			"desc": "E471 (6.25%)"
+		},
+		{
+			"name": "e472",
+			"desc": "EPPLER 472"
+		},
+		{
+			"name": "e473",
+			"desc": "EPPLER 473"
+		},
+		{
+			"name": "e474",
+			"desc": "E474 (14.09%)"
+		},
+		{
+			"name": "e475",
+			"desc": "E475 (15.01%)"
+		},
+		{
+			"name": "e476",
+			"desc": "E476"
+		},
+		{
+			"name": "e477",
+			"desc": "E477"
+		},
+		{
+			"name": "e478",
+			"desc": "E487"
+		},
+		{
+			"name": "e479",
+			"desc": "EPPLER 479"
+		},
+		{
+			"name": "e485",
+			"desc": "EPPLER 485"
+		},
+		{
+			"name": "e49",
+			"desc": "EPPLER 49"
+		},
+		{
+			"name": "e502",
+			"desc": "EPPLER 502"
+		},
+		{
+			"name": "e520",
+			"desc": "EPPLER 520"
+		},
+		{
+			"name": "e521",
+			"desc": "EPPLER 521"
+		},
+		{
+			"name": "e540",
+			"desc": "EPPLER 540"
+		},
+		{
+			"name": "e541",
+			"desc": "EPPLER 541"
+		},
+		{
+			"name": "e542",
+			"desc": "EPPLER 542"
+		},
+		{
+			"name": "e543",
+			"desc": "EPPLER 543"
+		},
+		{
+			"name": "e544",
+			"desc": "EPPLER 544"
+		},
+		{
+			"name": "e545",
+			"desc": "EPPLER 545"
+		},
+		{
+			"name": "e546",
+			"desc": "EPPLER 546"
+		},
+		{
+			"name": "e547",
+			"desc": "EPPLER 547"
+		},
+		{
+			"name": "e548",
+			"desc": "EPPLER 548"
+		},
+		{
+			"name": "e549",
+			"desc": "EPPLER 549"
+		},
+		{
+			"name": "e550",
+			"desc": "EPPLER 550"
+		},
+		{
+			"name": "e551",
+			"desc": "EPPLER 551"
+		},
+		{
+			"name": "e552",
+			"desc": "EPPLER 552"
+		},
+		{
+			"name": "e553",
+			"desc": "EPPLER 553"
+		},
+		{
+			"name": "e554",
+			"desc": "EPPLER 554"
+		},
+		{
+			"name": "e555",
+			"desc": "EPPLER 555"
+		},
+		{
+			"name": "e556",
+			"desc": "EPPLER 556"
+		},
+		{
+			"name": "e557",
+			"desc": "EPPLER 557"
+		},
+		{
+			"name": "e558",
+			"desc": "EPPLER 558"
+		},
+		{
+			"name": "e559",
+			"desc": "EPPLER 559"
+		},
+		{
+			"name": "e560",
+			"desc": "EPPLER 560"
+		},
+		{
+			"name": "e561",
+			"desc": "EPPLER 561"
+		},
+		{
+			"name": "e562",
+			"desc": "EPPLER 562"
+		},
+		{
+			"name": "e58",
+			"desc": "EPPLER 58"
+		},
+		{
+			"name": "e580",
+			"desc": "EPPLER 580"
+		},
+		{
+			"name": "e582",
+			"desc": "EPPLER 582"
+		},
+		{
+			"name": "e583",
+			"desc": "EPPLER 583"
+		},
+		{
+			"name": "e584",
+			"desc": "EPPLER 584"
+		},
+		{
+			"name": "e585",
+			"desc": "EPPLER 585"
+		},
+		{
+			"name": "e587",
+			"desc": "EPPLER 587"
+		},
+		{
+			"name": "e59",
+			"desc": "EPPLER 59"
+		},
+		{
+			"name": "e591",
+			"desc": "E591"
+		},
+		{
+			"name": "e593",
+			"desc": "EPPLER 593"
+		},
+		{
+			"name": "e598",
+			"desc": "EPPLER 598"
+		},
+		{
+			"name": "e603",
+			"desc": "EPPLER 603"
+		},
+		{
+			"name": "e604",
+			"desc": "EPPLER 604"
+		},
+		{
+			"name": "e61",
+			"desc": "E61 (5.64%)"
+		},
+		{
+			"name": "e62",
+			"desc": "E62 (5.62%)"
+		},
+		{
+			"name": "e625",
+			"desc": "EPPLER 625"
+		},
+		{
+			"name": "e63",
+			"desc": "E63 (4.25%)"
+		},
+		{
+			"name": "e635",
+			"desc": "EPPLER 635"
+		},
+		{
+			"name": "e636",
+			"desc": "EPPLER 636"
+		},
+		{
+			"name": "e637",
+			"desc": "EPPLER 637"
+		},
+		{
+			"name": "e638",
+			"desc": "EPPLER 638"
+		},
+		{
+			"name": "e639",
+			"desc": "EPPLER 639"
+		},
+		{
+			"name": "e64",
+			"desc": "E64 (8.45%)"
+		},
+		{
+			"name": "e642",
+			"desc": "EPPLER 642"
+		},
+		{
+			"name": "e654",
+			"desc": "EPPLER 654"
+		},
+		{
+			"name": "e655",
+			"desc": "EPPLER 655"
+		},
+		{
+			"name": "e656",
+			"desc": "EPPLER 656"
+		},
+		{
+			"name": "e657",
+			"desc": "EPPLER 657"
+		},
+		{
+			"name": "e66",
+			"desc": "EPPLER 66"
+		},
+		{
+			"name": "e662",
+			"desc": "EPPLER E662"
+		},
+		{
+			"name": "e664",
+			"desc": "EPPLER 664"
+		},
+		{
+			"name": "e664ex",
+			"desc": "EPPLER 664 (EXTENDED)"
+		},
+		{
+			"name": "e668",
+			"desc": "EPPLER 668"
+		},
+		{
+			"name": "e67",
+			"desc": "EPPLER 67"
+		},
+		{
+			"name": "e678",
+			"desc": "EPPLER 678"
+		},
+		{
+			"name": "e68",
+			"desc": "EPPLER 68"
+		},
+		{
+			"name": "e682",
+			"desc": "EPPLER 682"
+		},
+		{
+			"name": "e694",
+			"desc": "EPPLER 694"
+		},
+		{
+			"name": "e71",
+			"desc": "E71 (5.15%)"
+		},
+		{
+			"name": "e715",
+			"desc": "EPPLER 715"
+		},
+		{
+			"name": "e748",
+			"desc": "EPPLER 748"
+		},
+		{
+			"name": "e793",
+			"desc": "EPPLER 793"
+		},
+		{
+			"name": "e817",
+			"desc": "EPPLER 817 HYDROFOIL"
+		},
+		{
+			"name": "e818",
+			"desc": "EPPLER 818 HYDROFOIL"
+		},
+		{
+			"name": "e836",
+			"desc": "EPPLER E836 HYDROFOIL"
+		},
+		{
+			"name": "e837",
+			"desc": "EPPLER E837 HYDROFOIL"
+		},
+		{
+			"name": "e838",
+			"desc": "EPPLER E838 HYDROFOIL"
+		},
+		{
+			"name": "e850",
+			"desc": "EPPLER E850"
+		},
+		{
+			"name": "e851",
+			"desc": "EPPLER E851"
+		},
+		{
+			"name": "e852",
+			"desc": "EPPLER E852"
+		},
+		{
+			"name": "e853",
+			"desc": "EPPLER E853"
+		},
+		{
+			"name": "e854",
+			"desc": "EPPLER E854"
+		},
+		{
+			"name": "e855",
+			"desc": "EPPLER 855"
+		},
+		{
+			"name": "e856",
+			"desc": "EPPLER 856"
+		},
+		{
+			"name": "e857",
+			"desc": "EPPLER 857"
+		},
+		{
+			"name": "e858",
+			"desc": "EPPLER 858"
+		},
+		{
+			"name": "e862",
+			"desc": "EPPLER 862 STRUT"
+		},
+		{
+			"name": "e863",
+			"desc": "EPPLER 863 STRUT"
+		},
+		{
+			"name": "e864",
+			"desc": "EPPLER 864 STRUT"
+		},
+		{
+			"name": "e874",
+			"desc": "EPPLER 874 HYDROFOIL"
+		},
+		{
+			"name": "e904",
+			"desc": "EPPLER 904"
+		},
+		{
+			"name": "e908",
+			"desc": "EPPLER 908"
+		},
+		{
+			"name": "ea61009",
+			"desc": "EPPLER EA 6(-1)-009"
+		},
+		{
+			"name": "ea61012",
+			"desc": "EPPLER EA 6(-1)-012"
+		},
+		{
+			"name": "ea81006",
+			"desc": "EPPLER EA 8(-1)-006"
+		},
+		{
+			"name": "ebambino7",
+			"desc": "E. Bambino"
+		},
+		{
+			"name": "ec863914",
+			"desc": "EPPLER EC 86(-3)-914"
+		},
+		{
+			"name": "eh0009",
+			"desc": "EH 0.0/9.0"
+		},
+		{
+			"name": "eh1070",
+			"desc": "Eh 1.0/7.0"
+		},
+		{
+			"name": "eh1090",
+			"desc": "EH 1.0/9.0"
+		},
+		{
+			"name": "eh1590",
+			"desc": "EH 1.5/9.0"
+		},
+		{
+			"name": "eh2010",
+			"desc": "EH 2.0/10"
+		},
+		{
+			"name": "eh2012",
+			"desc": "EH 2.0/12"
+		},
+		{
+			"name": "eh2070",
+			"desc": "EH 2.0/7.0"
+		},
+		{
+			"name": "eh2510",
+			"desc": "EH 2.5/10"
+		},
+		{
+			"name": "eh3012",
+			"desc": "EH 3.0/12"
+		},
+		{
+			"name": "eiffel10",
+			"desc": "Eiffel 10 (Wright) - 1903 Wright Flyer"
+		},
+		{
+			"name": "eiffel371",
+			"desc": "Eiffel 371 (Monge)"
+		},
+		{
+			"name": "eiffel385",
+			"desc": "Eiffel 385 (S.T. Ae)"
+		},
+		{
+			"name": "eiffel428",
+			"desc": "Eiffel 428 (Bleriot)"
+		},
+		{
+			"name": "eiffel430",
+			"desc": "Eiffel 430 (Lachassgne)"
+		},
+		{
+			"name": "esa40",
+			"desc": "ESA40"
+		},
+		{
+			"name": "falcon",
+			"desc": "Falcon"
+		},
+		{
+			"name": "fauvel",
+			"desc": "FAUVEL 14%"
+		},
+		{
+			"name": "fg1",
+			"desc": "Fage & Collins 1"
+		},
+		{
+			"name": "fg2",
+			"desc": "Fage & Collins 2"
+		},
+		{
+			"name": "fg3",
+			"desc": "Fage & Collins 3"
+		},
+		{
+			"name": "fg4",
+			"desc": "Fage & Collins 4"
+		},
+		{
+			"name": "fx049915",
+			"desc": "WORTMANN FX 049-915"
+		},
+		{
+			"name": "fx05188",
+			"desc": "WORTMANN FX 05-188"
+		},
+		{
+			"name": "fx05191",
+			"desc": "WORTMANN FX 05-191"
+		},
+		{
+			"name": "fx057816",
+			"desc": "WORTMANN FX 057-816"
+		},
+		{
+			"name": "fx05h126",
+			"desc": "WORTMANN FX 05-H-126"
+		},
+		{
+			"name": "fx082512",
+			"desc": "WORTMANN FX 082-512"
+		},
+		{
+			"name": "fx08s176",
+			"desc": "WORTMANN FX 08-S-176"
+		},
+		{
+			"name": "fx2",
+			"desc": "WORTMANN FX 2"
+		},
+		{
+			"name": "fx3",
+			"desc": "WORTMANN FX 3"
+		},
+		{
+			"name": "fx38153",
+			"desc": "FX 38-153"
+		},
+		{
+			"name": "fx60100",
+			"desc": "FX 60-100"
+		},
+		{
+			"name": "fx601001",
+			"desc": "FX 60-100 (126)"
+		},
+		{
+			"name": "fx60100sm",
+			"desc": "FX60-100 10.0% Smoothed"
+		},
+		{
+			"name": "fx60126",
+			"desc": "WORTMANN FX 60-126"
+		},
+		{
+			"name": "fx601261",
+			"desc": "FX 60-126/1"
+		},
+		{
+			"name": "fx60157",
+			"desc": "FX 60-157"
+		},
+		{
+			"name": "fx60160",
+			"desc": "FX 60-160"
+		},
+		{
+			"name": "fx60177",
+			"desc": "FX 60-177"
+		},
+		{
+			"name": "fx61140",
+			"desc": "FX 61-140"
+		},
+		{
+			"name": "fx61147",
+			"desc": "FX 61-147"
+		},
+		{
+			"name": "fx61163",
+			"desc": "FX 61-163"
+		},
+		{
+			"name": "fx61168",
+			"desc": "FX 61-168"
+		},
+		{
+			"name": "fx61184",
+			"desc": "FX 61-184"
+		},
+		{
+			"name": "fx62k131",
+			"desc": "WORTMANN FX 62-K-131"
+		},
+		{
+			"name": "fx62k153",
+			"desc": "FX 62-K-153/20"
+		},
+		{
+			"name": "fx63100",
+			"desc": "FX 63-100"
+		},
+		{
+			"name": "fx63110",
+			"desc": "FX 63-110"
+		},
+		{
+			"name": "fx63120",
+			"desc": "FX 63-120"
+		},
+		{
+			"name": "fx63137",
+			"desc": "WORTMANN FX 63-137"
+		},
+		{
+			"name": "fx63137sm",
+			"desc": "FX 63-137 13.7% Smoothed"
+		},
+		{
+			"name": "fx63143",
+			"desc": "FX 63-143"
+		},
+		{
+			"name": "fx63145",
+			"desc": "FX 63-145"
+		},
+		{
+			"name": "fx63147",
+			"desc": "FX 63-147"
+		},
+		{
+			"name": "fx63158",
+			"desc": "FX 63-158"
+		},
+		{
+			"name": "fx6617a2",
+			"desc": "FX 66-17AII-182"
+		},
+		{
+			"name": "fx6617ai",
+			"desc": "WORTMANN FX 66-17AII-182"
+		},
+		{
+			"name": "fx66182",
+			"desc": "FX 66-182"
+		},
+		{
+			"name": "fx66196v",
+			"desc": "FX 66-S-196 V1"
+		},
+		{
+			"name": "fx66a175",
+			"desc": "WORTMANN FX 66-17A-175"
+		},
+		{
+			"name": "fx66h60",
+			"desc": "FX 66-H-60"
+		},
+		{
+			"name": "fx66h80",
+			"desc": "FX 66-H-80"
+		},
+		{
+			"name": "fx66s161",
+			"desc": "FX 66-S-161"
+		},
+		{
+			"name": "fx66s171",
+			"desc": "FX 66-S-171"
+		},
+		{
+			"name": "fx66s196",
+			"desc": "FX 66-S-196"
+		},
+		{
+			"name": "fx67k150",
+			"desc": "FX 67-K-150/17"
+		},
+		{
+			"name": "fx67k170",
+			"desc": "FX 67-K-170/17"
+		},
+		{
+			"name": "fx68h120",
+			"desc": "FX 68-H-120"
+		},
+		{
+			"name": "fx69274",
+			"desc": "FX 69-274"
+		},
+		{
+			"name": "fx69h083",
+			"desc": "BELL/WORTMANN FX 69-H-083"
+		},
+		{
+			"name": "fx69h098",
+			"desc": "BELL/WORTMANN FX 69-H-098"
+		},
+		{
+			"name": "fx69pr281",
+			"desc": "FX 69-PR-281"
+		},
+		{
+			"name": "fx71089a",
+			"desc": "WORTMANN FX 71-089A"
+		},
+		{
+			"name": "fx71120",
+			"desc": "WORTMANN FX 71-120"
+		},
+		{
+			"name": "fx711520",
+			"desc": "FX 71-L-150/20"
+		},
+		{
+			"name": "fx711525",
+			"desc": "FX 71-L-150/25"
+		},
+		{
+			"name": "fx711530",
+			"desc": "FX 71-L-150/30"
+		},
+		{
+			"name": "fx71l150",
+			"desc": "FX 71-L-150/30"
+		},
+		{
+			"name": "fx72150a",
+			"desc": "WORTMANN FX 72-MS-150A"
+		},
+		{
+			"name": "fx72150b",
+			"desc": "WORTMANN FX 72-MS-150B"
+		},
+		{
+			"name": "fx72ls160",
+			"desc": "FX 72-LS-160"
+		},
+		{
+			"name": "fx73170",
+			"desc": "FX 73-170"
+		},
+		{
+			"name": "fx73170a",
+			"desc": "FX 73-170 A"
+		},
+		{
+			"name": "fx73cl1152",
+			"desc": "FX 73-CL1-152"
+		},
+		{
+			"name": "fx73cl2152",
+			"desc": "FX 73-CL2-152"
+		},
+		{
+			"name": "fx73cl3152",
+			"desc": "FX 73-CL3-152"
+		},
+		{
+			"name": "fx73k170",
+			"desc": "FX 73-K-170/22"
+		},
+		{
+			"name": "fx74080",
+			"desc": "FX 74-080"
+		},
+		{
+			"name": "fx74130wp1",
+			"desc": "FX 74-130 WP1"
+		},
+		{
+			"name": "fx74130wp2",
+			"desc": "74-130 WP2"
+		},
+		{
+			"name": "fx74130wp2mod",
+			"desc": "74-130 WP2 MOD"
+		},
+		{
+			"name": "fx74cl5140",
+			"desc": "FX74_CL5_140"
+		},
+		{
+			"name": "fx74cl6140",
+			"desc": "FX 74-CL6-140"
+		},
+		{
+			"name": "fx74modsm",
+			"desc": "FX 74-Cl5-140 MOD (Smoothed)"
+		},
+		{
+			"name": "fx75141",
+			"desc": "FX 75-141"
+		},
+		{
+			"name": "fx75193",
+			"desc": "FX 75-193"
+		},
+		{
+			"name": "fx75vg166",
+			"desc": "FX 75-VG-166/22"
+		},
+		{
+			"name": "fx76100",
+			"desc": "FX 76-100"
+		},
+		{
+			"name": "fx76120",
+			"desc": "FX 76-120"
+		},
+		{
+			"name": "fx76mp120",
+			"desc": "FX 76-MP-120"
+		},
+		{
+			"name": "fx76mp140",
+			"desc": "FX 76-MP-140"
+		},
+		{
+			"name": "fx76mp160",
+			"desc": "FX 76-MP-160"
+		},
+		{
+			"name": "fx77080",
+			"desc": "FX 77-080"
+		},
+		{
+			"name": "fx77w121",
+			"desc": "FX 77-W-121"
+		},
+		{
+			"name": "fx77w153",
+			"desc": "WORTMANN FX 77-W-153"
+		},
+		{
+			"name": "fx77w258",
+			"desc": "WORTMANN FX 77-W-258"
+		},
+		{
+			"name": "fx77w270",
+			"desc": "FX 77-W-270"
+		},
+		{
+			"name": "fx77w270s",
+			"desc": "FX 77-W-270S"
+		},
+		{
+			"name": "fx77w343",
+			"desc": "WORTMANN FX 77-W-343"
+		},
+		{
+			"name": "fx78k140",
+			"desc": "FX 78-K-140/20"
+		},
+		{
+			"name": "fx78k140a20",
+			"desc": "FX 78-K-140 A/20"
+		},
+		{
+			"name": "fx78k150",
+			"desc": "FX 78-K-150/20"
+		},
+		{
+			"name": "fx78k161",
+			"desc": "FX 78-K-161"
+		},
+		{
+			"name": "fx78pk188",
+			"desc": "FX 78-PK-188/20"
+		},
+		{
+			"name": "fx79k144",
+			"desc": "WORTMANN FX 79-K-144/17"
+		},
+		{
+			"name": "fx79l100",
+			"desc": "FX 79-L-100"
+		},
+		{
+			"name": "fx79l120",
+			"desc": "FX 79-L-120"
+		},
+		{
+			"name": "fx79w151a",
+			"desc": "FX 79-W-151 A"
+		},
+		{
+			"name": "fx79w470a",
+			"desc": "FX 79-W-470A"
+		},
+		{
+			"name": "fx79w660a",
+			"desc": "FX 79-W-660A"
+		},
+		{
+			"name": "fx80080",
+			"desc": "FX 80-080"
+		},
+		{
+			"name": "fx83w108",
+			"desc": "FX 83-W-108"
+		},
+		{
+			"name": "fx83w160",
+			"desc": "FX 83-W-160"
+		},
+		{
+			"name": "fx83w227",
+			"desc": "FX 83-W-227"
+		},
+		{
+			"name": "fx84w097",
+			"desc": "FX 84-W-097"
+		},
+		{
+			"name": "fx84w127",
+			"desc": "FX 84-W-127"
+		},
+		{
+			"name": "fx84w140",
+			"desc": "FX 84-W-140"
+		},
+		{
+			"name": "fx84w150",
+			"desc": "FX 84-W-150"
+		},
+		{
+			"name": "fx84w175",
+			"desc": "FX 84-W-175"
+		},
+		{
+			"name": "fx84w218",
+			"desc": "FX 84-W-218"
+		},
+		{
+			"name": "fxl142k",
+			"desc": "FX LIII-142 K 25"
+		},
+		{
+			"name": "fxlv152",
+			"desc": "WORTMANN FX L V-152"
+		},
+		{
+			"name": "fxm2",
+			"desc": "WORTMANN FX M2"
+		},
+		{
+			"name": "fxs02196",
+			"desc": "FX S 02-196"
+		},
+		{
+			"name": "fxs03182",
+			"desc": "FX S 03-182"
+		},
+		{
+			"name": "fxs21158",
+			"desc": "FX S 02/1-158"
+		},
+		{
+			"name": "geminism",
+			"desc": "GEMINI (Smoothed)"
+		},
+		{
+			"name": "giiia",
+			"desc": "GIII BL0"
+		},
+		{
+			"name": "giiib",
+			"desc": "GIII BL45"
+		},
+		{
+			"name": "giiic",
+			"desc": "GIII BL75"
+		},
+		{
+			"name": "giiid",
+			"desc": "GIII BL86"
+		},
+		{
+			"name": "giiie",
+			"desc": "GIII BL126"
+		},
+		{
+			"name": "giiif",
+			"desc": "GIII BL145"
+		},
+		{
+			"name": "giiig",
+			"desc": "GIII BL167"
+		},
+		{
+			"name": "giiih",
+			"desc": "GIII BL207"
+		},
+		{
+			"name": "giiii",
+			"desc": "GIII BL288"
+		},
+		{
+			"name": "giiij",
+			"desc": "GIII BL332"
+		},
+		{
+			"name": "giiik",
+			"desc": "GIII BL369"
+		},
+		{
+			"name": "giiil",
+			"desc": "GIII BL387"
+		},
+		{
+			"name": "giiim",
+			"desc": "GIII BL430"
+		},
+		{
+			"name": "giiin",
+			"desc": "GIII BL450"
+		},
+		{
+			"name": "glennmartin2",
+			"desc": "Glenn Martin 2"
+		},
+		{
+			"name": "glennmartin3",
+			"desc": "Glenn Martin 3"
+		},
+		{
+			"name": "glennmartin4",
+			"desc": "Glenn Martin 4"
+		},
+		{
+			"name": "gm15sm",
+			"desc": "GM15 (Smoothed)"
+		},
+		{
+			"name": "goe05k",
+			"desc": "GOE 5K"
+		},
+		{
+			"name": "goe06k",
+			"desc": "GOE 6K"
+		},
+		{
+			"name": "goe07k",
+			"desc": "GOE 7K"
+		},
+		{
+			"name": "goe08k",
+			"desc": "GOE 8K"
+		},
+		{
+			"name": "goe09k",
+			"desc": "GOE 9K"
+		},
+		{
+			"name": "goe100",
+			"desc": "GOE 100 (SOPWITH)"
+		},
+		{
+			"name": "goe101",
+			"desc": "GOE 101"
+		},
+		{
+			"name": "goe10k",
+			"desc": "GOE 10K"
+		},
+		{
+			"name": "goe113",
+			"desc": "GOE 113"
+		},
+		{
+			"name": "goe114",
+			"desc": "GOE 114 (MVA MK.1)"
+		},
+		{
+			"name": "goe115",
+			"desc": "GOE 115 (MVA MK.2)"
+		},
+		{
+			"name": "goe116",
+			"desc": "GOE 116 (MVA MK.3)"
+		},
+		{
+			"name": "goe117",
+			"desc": "GOE 117 (MVA MK.4)"
+		},
+		{
+			"name": "goe118",
+			"desc": "GOE 118 (MVA MK.7)"
+		},
+		{
+			"name": "goe11k",
+			"desc": "GOE 11K"
+		},
+		{
+			"name": "goe121",
+			"desc": "GOE 121 (MVA H.1)"
+		},
+		{
+			"name": "goe122",
+			"desc": "GOE 122 (MVA H.2)"
+		},
+		{
+			"name": "goe123",
+			"desc": "GOE 123"
+		},
+		{
+			"name": "goe124",
+			"desc": "GOE 124 (MVA H.4)"
+		},
+		{
+			"name": "goe12k",
+			"desc": "GOE 12K"
+		},
+		{
+			"name": "goe133",
+			"desc": "GOE 133 (MVA H.11)"
+		},
+		{
+			"name": "goe134",
+			"desc": "GOE 134 (MVA H.12)"
+		},
+		{
+			"name": "goe137",
+			"desc": "GOE 137 (MVA H.15)"
+		},
+		{
+			"name": "goe13k",
+			"desc": "GOE 13K"
+		},
+		{
+			"name": "goe14",
+			"desc": "GOE 14"
+		},
+		{
+			"name": "goe140",
+			"desc": "GOE 140 (MVA H.17)"
+		},
+		{
+			"name": "goe142",
+			"desc": "GOE 142 (MVA H.19)"
+		},
+		{
+			"name": "goe143",
+			"desc": "GOE 143 (MVA H.20)"
+		},
+		{
+			"name": "goe144",
+			"desc": "GOE 144 (MVA H.21)"
+		},
+		{
+			"name": "goe147",
+			"desc": "GOE 147 (MVA H.6)"
+		},
+		{
+			"name": "goe14k",
+			"desc": "GOE 14K"
+		},
+		{
+			"name": "goe15",
+			"desc": "GOE 15"
+		},
+		{
+			"name": "goe155",
+			"desc": "GOE 155 (SSW D.1)"
+		},
+		{
+			"name": "goe15k",
+			"desc": "GOE 15K"
+		},
+		{
+			"name": "goe164",
+			"desc": "GOE 164 (MVA MK.10)"
+		},
+		{
+			"name": "goe165",
+			"desc": "GOE 165 (MVA MK.11)"
+		},
+		{
+			"name": "goe167",
+			"desc": "GOE 167 (V.KARMAN PROP.2)"
+		},
+		{
+			"name": "goe16k",
+			"desc": "GOE 16K"
+		},
+		{
+			"name": "goe173",
+			"desc": "GOE 173 (ALBATROS 6020)"
+		},
+		{
+			"name": "goe174",
+			"desc": "GOE 174 (ALBATROS 5020)"
+		},
+		{
+			"name": "goe176",
+			"desc": "GOE 176 (ALBATROS 7020)"
+		},
+		{
+			"name": "goe177",
+			"desc": "GOE 177"
+		},
+		{
+			"name": "goe178",
+			"desc": "GOE 178"
+		},
+		{
+			"name": "goe180",
+			"desc": "GOE 180 (MVA H.26)"
+		},
+		{
+			"name": "goe182",
+			"desc": "GOE 182 (MVA H.27)"
+		},
+		{
+			"name": "goe184",
+			"desc": "GOE 184 (MVA H.29)"
+		},
+		{
+			"name": "goe187",
+			"desc": "GOE 187 (SCHUETTE-LANZ 2U10)"
+		},
+		{
+			"name": "goe188",
+			"desc": "GOE 188 (SCHUETTE-LANZ 3U10)"
+		},
+		{
+			"name": "goe190",
+			"desc": "GOE 190 (MVA MK.18)"
+		},
+		{
+			"name": "goe195",
+			"desc": "GOE 195"
+		},
+		{
+			"name": "goe198",
+			"desc": "GOE 198 (L.F.G. 5294)"
+		},
+		{
+			"name": "goe199",
+			"desc": "GOE 199 (L.F.G. 5406)"
+		},
+		{
+			"name": "goe207",
+			"desc": "GOE 207 (AVIATIK V8)"
+		},
+		{
+			"name": "goe210",
+			"desc": "GOE 210 (DAIMLER)"
+		},
+		{
+			"name": "goe217",
+			"desc": "GOE 217 (MVA MK.12)"
+		},
+		{
+			"name": "goe222",
+			"desc": "GOE 222 (MVA H.33)"
+		},
+		{
+			"name": "goe223",
+			"desc": "GOE 223 (MVA H.34)"
+		},
+		{
+			"name": "goe225",
+			"desc": "GOE 225 (MVA H.35)"
+		},
+		{
+			"name": "goe226",
+			"desc": "GOE 226 (MVA H.36)"
+		},
+		{
+			"name": "goe227",
+			"desc": "GOE 227 (MVA H.37)"
+		},
+		{
+			"name": "goe228",
+			"desc": "GOE 228 (MVA H.38)"
+		},
+		{
+			"name": "goe229",
+			"desc": "GOE 229 (MVA H.39)"
+		},
+		{
+			"name": "goe233",
+			"desc": "GOE 233 (MVA CA4)"
+		},
+		{
+			"name": "goe234",
+			"desc": "GOE 234 (MVA CA5)"
+		},
+		{
+			"name": "goe235",
+			"desc": "GOE 235 (SCHUETTE-LANZ)"
+		},
+		{
+			"name": "goe238",
+			"desc": "GOE 238 (HANSA-BRANDENBURG)"
+		},
+		{
+			"name": "goe239",
+			"desc": "GOE 239 (MVA H.31)"
+		},
+		{
+			"name": "goe240",
+			"desc": "GOE 240 (KOLLER)"
+		},
+		{
+			"name": "goe241",
+			"desc": "GOE 241 (MVA PR.1)"
+		},
+		{
+			"name": "goe242",
+			"desc": "GOE 242 (MVA PR.2)"
+		},
+		{
+			"name": "goe243",
+			"desc": "GOE 243 (MVA PR.3)"
+		},
+		{
+			"name": "goe244",
+			"desc": "GOE 244 (MVA PR.4)"
+		},
+		{
+			"name": "goe255",
+			"desc": "GOE 255 (MVA CA.6)"
+		},
+		{
+			"name": "goe256",
+			"desc": "GOE 256 (JUNKERS E)"
+		},
+		{
+			"name": "goe257",
+			"desc": "GOE 257"
+		},
+		{
+			"name": "goe264",
+			"desc": "GOE 264"
+		},
+		{
+			"name": "goe265",
+			"desc": "GOE 265"
+		},
+		{
+			"name": "goe269",
+			"desc": "GOE 269"
+		},
+		{
+			"name": "goe274",
+			"desc": "GOE 274 (DAIMLER V)"
+		},
+		{
+			"name": "goe275",
+			"desc": "GOE 275 (DAIMLER VI)"
+		},
+		{
+			"name": "goe276",
+			"desc": "GOE 276 (DAIMLER VII)"
+		},
+		{
+			"name": "goe277",
+			"desc": "GOE 277 (DAIMLER VIII)"
+		},
+		{
+			"name": "goe278",
+			"desc": "GOE 278 (DAIMLER IX)"
+		},
+		{
+			"name": "goe279",
+			"desc": "GOE 279 (DAIMLER X)"
+		},
+		{
+			"name": "goe280",
+			"desc": "GOE 280 (DAIMLER XI)"
+		},
+		{
+			"name": "goe281",
+			"desc": "GOE 281 (DAIMLER XII)"
+		},
+		{
+			"name": "goe282",
+			"desc": "GOE 282 (DAIMLER XIII)"
+		},
+		{
+			"name": "goe284",
+			"desc": "GOE 284"
+		},
+		{
+			"name": "goe285",
+			"desc": "GOE 285"
+		},
+		{
+			"name": "goe286",
+			"desc": "GOE 286"
+		},
+		{
+			"name": "goe287",
+			"desc": "GOE 287"
+		},
+		{
+			"name": "goe288",
+			"desc": "GOE 288"
+		},
+		{
+			"name": "goe289",
+			"desc": "GOE 289 (MVA 289)"
+		},
+		{
+			"name": "goe290",
+			"desc": "GOE 290 (MVA 290)"
+		},
+		{
+			"name": "goe298",
+			"desc": "GOE 298"
+		},
+		{
+			"name": "goe29b",
+			"desc": "GOE 29B"
+		},
+		{
+			"name": "goe300",
+			"desc": "GOE 300 (FRIEDRICHSHAFEN G20)"
+		},
+		{
+			"name": "goe301",
+			"desc": "GOE 301 (FRIEDRICHSHAFEN G 13)"
+		},
+		{
+			"name": "goe303",
+			"desc": "GOE 303 (FRIEDRICHSHAFEN G03)"
+		},
+		{
+			"name": "goe304",
+			"desc": "GOE 304 (FRIEDRICHSHAFEN G02)"
+		},
+		{
+			"name": "goe308",
+			"desc": "GOE 308 (MVA H.40)"
+		},
+		{
+			"name": "goe309",
+			"desc": "GOE 309 (MVA H.41)"
+		},
+		{
+			"name": "goe310",
+			"desc": "GOE 310 (MVA H.42)"
+		},
+		{
+			"name": "goe311",
+			"desc": "GOE 311 (MVA H.43)"
+		},
+		{
+			"name": "goe314",
+			"desc": "GOE 314 (HANSA-BRANDENBURG)"
+		},
+		{
+			"name": "goe315",
+			"desc": "GOE 315 (HANSA-BRANDENBURG III.5)"
+		},
+		{
+			"name": "goe316",
+			"desc": "GOE 316 (HANSA-BRANDENBURG IV.5)"
+		},
+		{
+			"name": "goe318",
+			"desc": "GOE 318 (HANSA-BRANDENBURG VI.5)"
+		},
+		{
+			"name": "goe319",
+			"desc": "GOE 319 (HANSA-BRANDENBURG II)"
+		},
+		{
+			"name": "goe320",
+			"desc": "GOE 320 (HANSA-BRANDENBURG II.1)"
+		},
+		{
+			"name": "goe321",
+			"desc": "GOE 321 (HANSA-BRANDENBURG III.1)"
+		},
+		{
+			"name": "goe322",
+			"desc": "GOE 322 (HANSA-BRANDENBURG IV.1)"
+		},
+		{
+			"name": "goe323",
+			"desc": "GOE 323 (HANSA-BRANDENBURG V.1)"
+		},
+		{
+			"name": "goe324",
+			"desc": "GOE 324 (HANSA-BRANDENBURG)"
+		},
+		{
+			"name": "goe325",
+			"desc": "GOE 325 (PFALZ 54)"
+		},
+		{
+			"name": "goe326",
+			"desc": "GOE 326 (PFALZ 55)"
+		},
+		{
+			"name": "goe328",
+			"desc": "GOE 328"
+		},
+		{
+			"name": "goe329",
+			"desc": "GOE 329 (PFALZ 58)"
+		},
+		{
+			"name": "goe330",
+			"desc": "GOE 330 (PFALZ 59)"
+		},
+		{
+			"name": "goe331",
+			"desc": "GOE 331 (PFALZ 60)"
+		},
+		{
+			"name": "goe332",
+			"desc": "GOE 332 (PFALZ 61)"
+		},
+		{
+			"name": "goe335",
+			"desc": "GOE 335 (D.F.W.)"
+		},
+		{
+			"name": "goe336",
+			"desc": "GOE 336 (MVA H.44)"
+		},
+		{
+			"name": "goe342",
+			"desc": "GOE 342"
+		},
+		{
+			"name": "goe344",
+			"desc": "GOE 344 (PFALZ 71)"
+		},
+		{
+			"name": "goe346",
+			"desc": "GOE 346 (FRIEDRICHSHAFEN-STAAKEN)"
+		},
+		{
+			"name": "goe358",
+			"desc": "GOE 358"
+		},
+		{
+			"name": "goe359",
+			"desc": "GOE 359"
+		},
+		{
+			"name": "goe360",
+			"desc": "GOE 360"
+		},
+		{
+			"name": "goe361",
+			"desc": "GOE 361"
+		},
+		{
+			"name": "goe362",
+			"desc": "GOE 362"
+		},
+		{
+			"name": "goe363",
+			"desc": "GOE 363"
+		},
+		{
+			"name": "goe364",
+			"desc": "GOE 364"
+		},
+		{
+			"name": "goe365",
+			"desc": "GOE 365"
+		},
+		{
+			"name": "goe366",
+			"desc": "GOE 366"
+		},
+		{
+			"name": "goe367",
+			"desc": "GOE 367"
+		},
+		{
+			"name": "goe368",
+			"desc": "GOE 368"
+		},
+		{
+			"name": "goe369",
+			"desc": "GOE 369"
+		},
+		{
+			"name": "goe370",
+			"desc": "GOE 370"
+		},
+		{
+			"name": "goe371",
+			"desc": "GOE 371"
+		},
+		{
+			"name": "goe372",
+			"desc": "GOE 372"
+		},
+		{
+			"name": "goe373",
+			"desc": "GOE 373"
+		},
+		{
+			"name": "goe374",
+			"desc": "GOE 374"
+		},
+		{
+			"name": "goe375",
+			"desc": "GOE 375"
+		},
+		{
+			"name": "goe376",
+			"desc": "GOE 376"
+		},
+		{
+			"name": "goe377",
+			"desc": "GOE 377"
+		},
+		{
+			"name": "goe379",
+			"desc": "GOE 379"
+		},
+		{
+			"name": "goe380",
+			"desc": "GOE 380"
+		},
+		{
+			"name": "goe381",
+			"desc": "GOE 381"
+		},
+		{
+			"name": "goe382",
+			"desc": "GOE 382"
+		},
+		{
+			"name": "goe383",
+			"desc": "GOE 383"
+		},
+		{
+			"name": "goe384",
+			"desc": "GOE 384"
+		},
+		{
+			"name": "goe385",
+			"desc": "GOE 385"
+		},
+		{
+			"name": "goe386",
+			"desc": "GOE 386"
+		},
+		{
+			"name": "goe387",
+			"desc": "GOE 387"
+		},
+		{
+			"name": "goe388",
+			"desc": "GOE 388"
+		},
+		{
+			"name": "goe389",
+			"desc": "GOE 389"
+		},
+		{
+			"name": "goe390",
+			"desc": "GOE 390"
+		},
+		{
+			"name": "goe391",
+			"desc": "GOE 391"
+		},
+		{
+			"name": "goe392",
+			"desc": "GOE 392"
+		},
+		{
+			"name": "goe393",
+			"desc": "GOE 393"
+		},
+		{
+			"name": "goe394",
+			"desc": "GOE 394"
+		},
+		{
+			"name": "goe395",
+			"desc": "GOE 395"
+		},
+		{
+			"name": "goe396",
+			"desc": "GOE 396"
+		},
+		{
+			"name": "goe397",
+			"desc": "GOE 397"
+		},
+		{
+			"name": "goe398",
+			"desc": "GOE 398"
+		},
+		{
+			"name": "goe399",
+			"desc": "GOE 399"
+		},
+		{
+			"name": "goe400",
+			"desc": "GOE 400"
+		},
+		{
+			"name": "goe401",
+			"desc": "GOE 401"
+		},
+		{
+			"name": "goe402",
+			"desc": "GOE 402"
+		},
+		{
+			"name": "goe403",
+			"desc": "GOE 403"
+		},
+		{
+			"name": "goe404",
+			"desc": "GOE 404"
+		},
+		{
+			"name": "goe405",
+			"desc": "GOE 405"
+		},
+		{
+			"name": "goe406",
+			"desc": "GOE 406"
+		},
+		{
+			"name": "goe407",
+			"desc": "GOE 407"
+		},
+		{
+			"name": "goe408",
+			"desc": "GOE 408"
+		},
+		{
+			"name": "goe409",
+			"desc": "GOE 409"
+		},
+		{
+			"name": "goe410",
+			"desc": "GOE 410"
+		},
+		{
+			"name": "goe411",
+			"desc": "GOE 411"
+		},
+		{
+			"name": "goe412",
+			"desc": "GOE 412"
+		},
+		{
+			"name": "goe413",
+			"desc": "GOE 413"
+		},
+		{
+			"name": "goe414",
+			"desc": "GOE 414"
+		},
+		{
+			"name": "goe415",
+			"desc": "GOE 415"
+		},
+		{
+			"name": "goe416a",
+			"desc": "GOE 416A"
+		},
+		{
+			"name": "goe417",
+			"desc": "GOE 417"
+		},
+		{
+			"name": "goe417a",
+			"desc": "GOE 417A (GEW. PLATTE)"
+		},
+		{
+			"name": "goe418",
+			"desc": "GOE 418"
+		},
+		{
+			"name": "goe419",
+			"desc": "GOE 419"
+		},
+		{
+			"name": "goe420",
+			"desc": "GOE 420"
+		},
+		{
+			"name": "goe421",
+			"desc": "GOE 421"
+		},
+		{
+			"name": "goe422",
+			"desc": "GOE 422"
+		},
+		{
+			"name": "goe423",
+			"desc": "GOE 423"
+		},
+		{
+			"name": "goe424",
+			"desc": "GOE 424"
+		},
+		{
+			"name": "goe425",
+			"desc": "GOE 425"
+		},
+		{
+			"name": "goe426",
+			"desc": "GOE 426"
+		},
+		{
+			"name": "goe427",
+			"desc": "GOE 427"
+		},
+		{
+			"name": "goe428",
+			"desc": "GOE 428"
+		},
+		{
+			"name": "goe429",
+			"desc": "GOE 429"
+		},
+		{
+			"name": "goe430",
+			"desc": "GOE 430"
+		},
+		{
+			"name": "goe431",
+			"desc": "GOE 431"
+		},
+		{
+			"name": "goe432",
+			"desc": "GOE 432"
+		},
+		{
+			"name": "goe433",
+			"desc": "GOE 433"
+		},
+		{
+			"name": "goe434",
+			"desc": "GOE 434"
+		},
+		{
+			"name": "goe435",
+			"desc": "GOE 435"
+		},
+		{
+			"name": "goe436",
+			"desc": "GOE 436"
+		},
+		{
+			"name": "goe437",
+			"desc": "GOE 437"
+		},
+		{
+			"name": "goe438",
+			"desc": "GOE 438"
+		},
+		{
+			"name": "goe439",
+			"desc": "GOE 439"
+		},
+		{
+			"name": "goe440",
+			"desc": "GOE 440"
+		},
+		{
+			"name": "goe441",
+			"desc": "GOE 441"
+		},
+		{
+			"name": "goe442",
+			"desc": "GOE 442"
+		},
+		{
+			"name": "goe443",
+			"desc": "GOE 443"
+		},
+		{
+			"name": "goe444",
+			"desc": "GOE 444"
+		},
+		{
+			"name": "goe445",
+			"desc": "GOE 445"
+		},
+		{
+			"name": "goe446",
+			"desc": "GOE 446"
+		},
+		{
+			"name": "goe447",
+			"desc": "GOE 447"
+		},
+		{
+			"name": "goe448",
+			"desc": "GOE 448"
+		},
+		{
+			"name": "goe449",
+			"desc": "GOE 449"
+		},
+		{
+			"name": "goe450",
+			"desc": "GOE 450"
+		},
+		{
+			"name": "goe451",
+			"desc": "GOE 451"
+		},
+		{
+			"name": "goe456",
+			"desc": "GOE 456"
+		},
+		{
+			"name": "goe457",
+			"desc": "GOE 457"
+		},
+		{
+			"name": "goe458",
+			"desc": "GOE 458"
+		},
+		{
+			"name": "goe459",
+			"desc": "GOE 459"
+		},
+		{
+			"name": "goe460",
+			"desc": "GOE 460"
+		},
+		{
+			"name": "goe462",
+			"desc": "GOE 462"
+		},
+		{
+			"name": "goe464",
+			"desc": "GOE 464"
+		},
+		{
+			"name": "goe474",
+			"desc": "GOE 474"
+		},
+		{
+			"name": "goe476",
+			"desc": "GOE 476"
+		},
+		{
+			"name": "goe477",
+			"desc": "GOE 477"
+		},
+		{
+			"name": "goe478",
+			"desc": "GOE 478"
+		},
+		{
+			"name": "goe479",
+			"desc": "GOE 479"
+		},
+		{
+			"name": "goe480",
+			"desc": "GOE 480"
+		},
+		{
+			"name": "goe481",
+			"desc": "GOE 481"
+		},
+		{
+			"name": "goe481a",
+			"desc": "GOE 481A"
+		},
+		{
+			"name": "goe482",
+			"desc": "GOE 482"
+		},
+		{
+			"name": "goe483",
+			"desc": "GOE 483"
+		},
+		{
+			"name": "goe484",
+			"desc": "GOE 484"
+		},
+		{
+			"name": "goe488",
+			"desc": "GOE 488"
+		},
+		{
+			"name": "goe490",
+			"desc": "GOE 490"
+		},
+		{
+			"name": "goe491",
+			"desc": "GOE 491"
+		},
+		{
+			"name": "goe492",
+			"desc": "GOE 492"
+		},
+		{
+			"name": "goe493",
+			"desc": "GOE 493"
+		},
+		{
+			"name": "goe494",
+			"desc": "GOE 494"
+		},
+		{
+			"name": "goe495",
+			"desc": "GOE 495"
+		},
+		{
+			"name": "goe496",
+			"desc": "GOE 496"
+		},
+		{
+			"name": "goe497",
+			"desc": "GOE 497"
+		},
+		{
+			"name": "goe498",
+			"desc": "GOE 498"
+		},
+		{
+			"name": "goe499",
+			"desc": "GOE 499"
+		},
+		{
+			"name": "goe500",
+			"desc": "GOE 500"
+		},
+		{
+			"name": "goe501",
+			"desc": "GOE 501"
+		},
+		{
+			"name": "goe502",
+			"desc": "GOE 502"
+		},
+		{
+			"name": "goe503",
+			"desc": "GOE 503"
+		},
+		{
+			"name": "goe504",
+			"desc": "GOE 504"
+		},
+		{
+			"name": "goe505",
+			"desc": "GOE 505"
+		},
+		{
+			"name": "goe506",
+			"desc": "GOE 506"
+		},
+		{
+			"name": "goe507",
+			"desc": "GOE 507"
+		},
+		{
+			"name": "goe508",
+			"desc": "GOE 508"
+		},
+		{
+			"name": "goe509",
+			"desc": "GOE 509"
+		},
+		{
+			"name": "goe510",
+			"desc": "GOE 510"
+		},
+		{
+			"name": "goe511",
+			"desc": "GOE 511"
+		},
+		{
+			"name": "goe512",
+			"desc": "GOE 512"
+		},
+		{
+			"name": "goe513",
+			"desc": "GOE 513"
+		},
+		{
+			"name": "goe514",
+			"desc": "GOE 514"
+		},
+		{
+			"name": "goe515",
+			"desc": "GOE 515"
+		},
+		{
+			"name": "goe517",
+			"desc": "GOE 517"
+		},
+		{
+			"name": "goe518",
+			"desc": "GOE 518"
+		},
+		{
+			"name": "goe522",
+			"desc": "GOE 522"
+		},
+		{
+			"name": "goe523",
+			"desc": "GOE 523"
+		},
+		{
+			"name": "goe525",
+			"desc": "GOE 525"
+		},
+		{
+			"name": "goe526",
+			"desc": "GOE 526"
+		},
+		{
+			"name": "goe527",
+			"desc": "GOE 527"
+		},
+		{
+			"name": "goe528",
+			"desc": "GOE 528"
+		},
+		{
+			"name": "goe529",
+			"desc": "GOE 529"
+		},
+		{
+			"name": "goe530",
+			"desc": "GOE 530"
+		},
+		{
+			"name": "goe531",
+			"desc": "GOE 531"
+		},
+		{
+			"name": "goe532",
+			"desc": "GOE 532"
+		},
+		{
+			"name": "goe533",
+			"desc": "GOE 533"
+		},
+		{
+			"name": "goe534",
+			"desc": "GOE 534"
+		},
+		{
+			"name": "goe535",
+			"desc": "GOE 535"
+		},
+		{
+			"name": "goe54",
+			"desc": "GOE 54"
+		},
+		{
+			"name": "goe546",
+			"desc": "GOE 546"
+		},
+		{
+			"name": "goe547",
+			"desc": "GOE 547"
+		},
+		{
+			"name": "goe548",
+			"desc": "GOE 548"
+		},
+		{
+			"name": "goe549",
+			"desc": "GOE 549"
+		},
+		{
+			"name": "goe55",
+			"desc": "GOE 55"
+		},
+		{
+			"name": "goe550",
+			"desc": "GOE 550"
+		},
+		{
+			"name": "goe553",
+			"desc": "GOE 553"
+		},
+		{
+			"name": "goe559",
+			"desc": "GOE 559"
+		},
+		{
+			"name": "goe561",
+			"desc": "GOE 561"
+		},
+		{
+			"name": "goe562",
+			"desc": "GOE 562"
+		},
+		{
+			"name": "goe563",
+			"desc": "GOE 563"
+		},
+		{
+			"name": "goe564",
+			"desc": "GOE 564"
+		},
+		{
+			"name": "goe565",
+			"desc": "GOE 565"
+		},
+		{
+			"name": "goe566",
+			"desc": "GOE 566"
+		},
+		{
+			"name": "goe567",
+			"desc": "GOE 567"
+		},
+		{
+			"name": "goe57",
+			"desc": "GOE 57"
+		},
+		{
+			"name": "goe570",
+			"desc": "GOE 570"
+		},
+		{
+			"name": "goe571",
+			"desc": "GOE 571"
+		},
+		{
+			"name": "goe572",
+			"desc": "GOE 572"
+		},
+		{
+			"name": "goe573",
+			"desc": "GOE 573"
+		},
+		{
+			"name": "goe574",
+			"desc": "GOE 574"
+		},
+		{
+			"name": "goe575",
+			"desc": "GOE 575"
+		},
+		{
+			"name": "goe584",
+			"desc": "GOE 584"
+		},
+		{
+			"name": "goe585",
+			"desc": "GOE 585"
+		},
+		{
+			"name": "goe587",
+			"desc": "GOE 587"
+		},
+		{
+			"name": "goe590",
+			"desc": "GOE 590"
+		},
+		{
+			"name": "goe591",
+			"desc": "GOE 591"
+		},
+		{
+			"name": "goe592",
+			"desc": "GOE 592"
+		},
+		{
+			"name": "goe593",
+			"desc": "GOE 593"
+		},
+		{
+			"name": "goe595",
+			"desc": "GOE 595"
+		},
+		{
+			"name": "goe596",
+			"desc": "GOE 596"
+		},
+		{
+			"name": "goe598",
+			"desc": "GOE 598"
+		},
+		{
+			"name": "goe599",
+			"desc": "GOE 599"
+		},
+		{
+			"name": "goe600",
+			"desc": "GOE 600"
+		},
+		{
+			"name": "goe601",
+			"desc": "GOE 601"
+		},
+		{
+			"name": "goe602",
+			"desc": "GOE 602"
+		},
+		{
+			"name": "goe602m",
+			"desc": "GOE 602 MOD."
+		},
+		{
+			"name": "goe604",
+			"desc": "GOE 604"
+		},
+		{
+			"name": "goe610b",
+			"desc": "GOE 610 B"
+		},
+		{
+			"name": "goe610bm",
+			"desc": "GOE 610-B MOD."
+		},
+		{
+			"name": "goe611",
+			"desc": "GOE 611"
+		},
+		{
+			"name": "goe612",
+			"desc": "GOE 612"
+		},
+		{
+			"name": "goe613",
+			"desc": "GOE 613"
+		},
+		{
+			"name": "goe614",
+			"desc": "GOE 614"
+		},
+		{
+			"name": "goe615",
+			"desc": "GOE 615"
+		},
+		{
+			"name": "goe617",
+			"desc": "GOE 617"
+		},
+		{
+			"name": "goe619",
+			"desc": "GOE 619"
+		},
+		{
+			"name": "goe620",
+			"desc": "GOE 620"
+		},
+		{
+			"name": "goe621",
+			"desc": "GOE 621"
+		},
+		{
+			"name": "goe622",
+			"desc": "GOE 622"
+		},
+		{
+			"name": "goe623",
+			"desc": "GOE 623"
+		},
+		{
+			"name": "goe624",
+			"desc": "GOE 624"
+		},
+		{
+			"name": "goe625",
+			"desc": "GOE 625"
+		},
+		{
+			"name": "goe626",
+			"desc": "GOE 626"
+		},
+		{
+			"name": "goe627",
+			"desc": "GOE 627"
+		},
+		{
+			"name": "goe628",
+			"desc": "GOE 628"
+		},
+		{
+			"name": "goe629",
+			"desc": "GOE 629"
+		},
+		{
+			"name": "goe63",
+			"desc": "GOE 63"
+		},
+		{
+			"name": "goe630",
+			"desc": "GOE 630"
+		},
+		{
+			"name": "goe632",
+			"desc": "GOE 632"
+		},
+		{
+			"name": "goe633",
+			"desc": "GOE 633"
+		},
+		{
+			"name": "goe645",
+			"desc": "GOE 645"
+		},
+		{
+			"name": "goe646",
+			"desc": "GOE 646"
+		},
+		{
+			"name": "goe647",
+			"desc": "GOE 647"
+		},
+		{
+			"name": "goe648",
+			"desc": "GOE 648"
+		},
+		{
+			"name": "goe650",
+			"desc": "GOE 650"
+		},
+		{
+			"name": "goe652",
+			"desc": "GOE 652"
+		},
+		{
+			"name": "goe654",
+			"desc": "GOE 654"
+		},
+		{
+			"name": "goe655",
+			"desc": "GOE 655"
+		},
+		{
+			"name": "goe670",
+			"desc": "GOE 670"
+		},
+		{
+			"name": "goe673",
+			"desc": "GOE 673"
+		},
+		{
+			"name": "goe675",
+			"desc": "GOE 675"
+		},
+		{
+			"name": "goe676",
+			"desc": "GOE 676 (= M 12)"
+		},
+		{
+			"name": "goe677",
+			"desc": "GOE 677 (= M 6)"
+		},
+		{
+			"name": "goe679",
+			"desc": "GOE 679"
+		},
+		{
+			"name": "goe681",
+			"desc": "GOE 681"
+		},
+		{
+			"name": "goe682",
+			"desc": "GOE 682"
+		},
+		{
+			"name": "goe683",
+			"desc": "GOE 683"
+		},
+		{
+			"name": "goe685",
+			"desc": "GOE 685"
+		},
+		{
+			"name": "goe692",
+			"desc": "GOE 692"
+		},
+		{
+			"name": "goe693",
+			"desc": "GOE 693"
+		},
+		{
+			"name": "goe701",
+			"desc": "GOE 701"
+		},
+		{
+			"name": "goe702",
+			"desc": "GOE 702"
+		},
+		{
+			"name": "goe703",
+			"desc": "GOE 703"
+		},
+		{
+			"name": "goe704",
+			"desc": "GOE 704"
+		},
+		{
+			"name": "goe711",
+			"desc": "GOE 711"
+		},
+		{
+			"name": "goe723",
+			"desc": "GOE 723"
+		},
+		{
+			"name": "goe735",
+			"desc": "GOE 735"
+		},
+		{
+			"name": "goe738",
+			"desc": "GOE 738"
+		},
+		{
+			"name": "goe741",
+			"desc": "GOE 741"
+		},
+		{
+			"name": "goe744",
+			"desc": "GOE 744"
+		},
+		{
+			"name": "goe746",
+			"desc": "GOE 746"
+		},
+		{
+			"name": "goe758",
+			"desc": "GOE 758"
+		},
+		{
+			"name": "goe765",
+			"desc": "Gottingen 765"
+		},
+		{
+			"name": "goe766",
+			"desc": "GOE 766"
+		},
+		{
+			"name": "goe767",
+			"desc": "GOE 767"
+		},
+		{
+			"name": "goe769",
+			"desc": "GOE 769"
+		},
+		{
+			"name": "goe770",
+			"desc": "GOE 770"
+		},
+		{
+			"name": "goe775",
+			"desc": "GOE 775"
+		},
+		{
+			"name": "goe776",
+			"desc": "GOE 776"
+		},
+		{
+			"name": "goe777",
+			"desc": "GOE 777"
+		},
+		{
+			"name": "goe780",
+			"desc": "GOE 780"
+		},
+		{
+			"name": "goe79",
+			"desc": "GOE 79 (PFALZ 11)"
+		},
+		{
+			"name": "goe795",
+			"desc": "GOE 795"
+		},
+		{
+			"name": "goe795sm",
+			"desc": "GOE 795 Smoothed"
+		},
+		{
+			"name": "goe796",
+			"desc": "GOE 796"
+		},
+		{
+			"name": "goe797",
+			"desc": "GOE 797"
+		},
+		{
+			"name": "goe798",
+			"desc": "GOE 798"
+		},
+		{
+			"name": "goe801",
+			"desc": "GOE 801 (MVA 301)"
+		},
+		{
+			"name": "goe802",
+			"desc": "GOE 802"
+		},
+		{
+			"name": "goe802a",
+			"desc": "GOE 802 A"
+		},
+		{
+			"name": "goe802b",
+			"desc": "GOE 802 B"
+		},
+		{
+			"name": "goe803h",
+			"desc": "GOE 803 (HACKLINGER)"
+		},
+		{
+			"name": "goe804",
+			"desc": "GOE 804 (EA 8)"
+		},
+		{
+			"name": "goe81",
+			"desc": "GOE 81"
+		},
+		{
+			"name": "goe92",
+			"desc": "GOE 92"
+		},
+		{
+			"name": "griffith30SymSuction",
+			"desc": "Griffith 30% Suction"
+		},
+		{
+			"name": "gs1",
+			"desc": "SIKORSKY GS-1"
+		},
+		{
+			"name": "gu255118",
+			"desc": "UNIVERSITY OF GLASGOW GU25-5(11)8"
+		},
+		{
+			"name": "hh02",
+			"desc": "HUGHES HELICOPTERS HH-02"
+		},
+		{
+			"name": "hobie",
+			"desc": "HOBIE"
+		},
+		{
+			"name": "hobiesm",
+			"desc": "HOBIESMO1"
+		},
+		{
+			"name": "hor04",
+			"desc": "ONERA HOR04"
+		},
+		{
+			"name": "hor07",
+			"desc": "ONERA HOR07"
+		},
+		{
+			"name": "hor12",
+			"desc": "ONERA HOR12"
+		},
+		{
+			"name": "hor20",
+			"desc": "ONERA HOR20"
+		},
+		{
+			"name": "hq010",
+			"desc": "HQ 0/10"
+		},
+		{
+			"name": "hq07",
+			"desc": "HQ 0/7"
+		},
+		{
+			"name": "hq09",
+			"desc": "HQ 0/9"
+		},
+		{
+			"name": "hq1010",
+			"desc": "HQ 1.0/10"
+		},
+		{
+			"name": "hq1012",
+			"desc": "HQ 1.0/12"
+		},
+		{
+			"name": "hq108",
+			"desc": "HQ 1.0/8"
+		},
+		{
+			"name": "hq109",
+			"desc": "HQ 1.0/9"
+		},
+		{
+			"name": "hq1510",
+			"desc": "HQ 1.5/10"
+		},
+		{
+			"name": "hq1511",
+			"desc": "HQ 1.5/11"
+		},
+		{
+			"name": "hq1512",
+			"desc": "HQ 1.5/12"
+		},
+		{
+			"name": "hq158",
+			"desc": "HQ 1.5/8"
+		},
+		{
+			"name": "hq1585",
+			"desc": "HQ 1.5/8.5"
+		},
+		{
+			"name": "hq159",
+			"desc": "HQ 1.5/9"
+		},
+		{
+			"name": "hq159b",
+			"desc": "HQ 1.5/9 B"
+		},
+		{
+			"name": "hq17",
+			"desc": "HORSTMANN AND QUAST HQ-17/14.38 AIRFOIL (MEASURED)"
+		},
+		{
+			"name": "hq2010",
+			"desc": "HQ 2.0/10"
+		},
+		{
+			"name": "hq2012",
+			"desc": "HQ 2.0/12"
+		},
+		{
+			"name": "hq208",
+			"desc": "HQ 2.0/8"
+		},
+		{
+			"name": "hq209",
+			"desc": "HQ 2.0/9"
+		},
+		{
+			"name": "hq2090sm",
+			"desc": "HQ-2.0/9 9.0% Smoothed"
+		},
+		{
+			"name": "hq2195",
+			"desc": "HQ 2.1/9.5"
+		},
+		{
+			"name": "hq2510",
+			"desc": "HQ 2.5/10"
+		},
+		{
+			"name": "hq2511",
+			"desc": "HQ 2.5/11"
+		},
+		{
+			"name": "hq2512",
+			"desc": "HQ 2.5/12"
+		},
+		{
+			"name": "hq258",
+			"desc": "HQ 2.5/8"
+		},
+		{
+			"name": "hq259",
+			"desc": "HQ 2.5/9"
+		},
+		{
+			"name": "hq2590sm",
+			"desc": "HQ 2.5/9.0 Smoothed by Eppler"
+		},
+		{
+			"name": "hq259b",
+			"desc": "HQ 2.5/9 B"
+		},
+		{
+			"name": "hq300gd2",
+			"desc": "HORSTMANN AND QUAST HQ-300 GD(MOD 2)"
+		},
+		{
+			"name": "hq3010",
+			"desc": "HQ 3.0/10"
+		},
+		{
+			"name": "hq3011",
+			"desc": "HQ 3.0/11"
+		},
+		{
+			"name": "hq3012",
+			"desc": "HQ 3.0/12"
+		},
+		{
+			"name": "hq3013",
+			"desc": "HQ 3.0/13"
+		},
+		{
+			"name": "hq3014",
+			"desc": "HQ 3.0/14"
+		},
+		{
+			"name": "hq3015",
+			"desc": "HQ 3.0/15"
+		},
+		{
+			"name": "hq308",
+			"desc": "HQ 3.0/8"
+		},
+		{
+			"name": "hq309",
+			"desc": "HQ 3.0/9"
+		},
+		{
+			"name": "hq3510",
+			"desc": "HQ 3.5/10"
+		},
+		{
+			"name": "hq3512",
+			"desc": "HQ 3.5/12"
+		},
+		{
+			"name": "hq3513",
+			"desc": "HQ 3.5/13"
+		},
+		{
+			"name": "hq3514",
+			"desc": "HQ 3.5/14"
+		},
+		{
+			"name": "hq3518",
+			"desc": "HQ 3.5/18"
+		},
+		{
+			"name": "hq358",
+			"desc": "HQ 3.5/8"
+		},
+		{
+			"name": "hq359",
+			"desc": "HQ 3.5/9"
+		},
+		{
+			"name": "hs1404",
+			"desc": "HAM-STD HS1-404"
+		},
+		{
+			"name": "hs1430",
+			"desc": "HAM-STD HS1-430"
+		},
+		{
+			"name": "hs1606",
+			"desc": "HAM-STD HS1-606"
+		},
+		{
+			"name": "hs1620",
+			"desc": "HAM-STD HS1-620"
+		},
+		{
+			"name": "hs1708",
+			"desc": "HAM-STD HS1-708"
+		},
+		{
+			"name": "hs1712",
+			"desc": "HAM-STD HS1-712"
+		},
+		{
+			"name": "hsnlf213",
+			"desc": "HSNLF(1)-0213"
+		},
+		{
+			"name": "ht05",
+			"desc": "HT05"
+		},
+		{
+			"name": "ht08",
+			"desc": "HT08"
+		},
+		{
+			"name": "ht12",
+			"desc": "HT12"
+		},
+		{
+			"name": "ht13",
+			"desc": "HT 13"
+		},
+		{
+			"name": "ht14",
+			"desc": "HT 14"
+		},
+		{
+			"name": "ht21",
+			"desc": "HT21"
+		},
+		{
+			"name": "ht22",
+			"desc": "HT22"
+		},
+		{
+			"name": "ht23",
+			"desc": "HT23"
+		},
+		{
+			"name": "ht33",
+			"desc": "HT33"
+		},
+		{
+			"name": "ht34",
+			"desc": "HT34"
+		},
+		{
+			"name": "ht35",
+			"desc": "HT35"
+		},
+		{
+			"name": "isa571",
+			"desc": "I.S.A. 571"
+		},
+		{
+			"name": "isa960",
+			"desc": "I.S.A. 960"
+		},
+		{
+			"name": "isa961",
+			"desc": "I.S.A. 961"
+		},
+		{
+			"name": "isa962",
+			"desc": "I.S.A. 962"
+		},
+		{
+			"name": "ist-mt1-12",
+			"desc": "IST-MT1-12"
+		},
+		{
+			"name": "ist-mt1-15",
+			"desc": "IST-MT1-15"
+		},
+		{
+			"name": "ist-mt1-18",
+			"desc": "IST-MT1-18"
+		},
+		{
+			"name": "ist-mt1-21",
+			"desc": "IST-MT1-21"
+		},
+		{
+			"name": "ist-mt1-24",
+			"desc": "IST-MT1-24"
+		},
+		{
+			"name": "j5012",
+			"desc": "J5012 12%"
+		},
+		{
+			"name": "jn153",
+			"desc": "JN-153"
+		},
+		{
+			"name": "joukowsk",
+			"desc": "12% JOUKOWSKI"
+		},
+		{
+			"name": "jx-gs-04",
+			"desc": "JX-GS-04"
+		},
+		{
+			"name": "jx-gs-06",
+			"desc": "JX-GS-06"
+		},
+		{
+			"name": "jx-gs-10",
+			"desc": "JX-GS-10"
+		},
+		{
+			"name": "jx-gs-15",
+			"desc": "JX-GS-15"
+		},
+		{
+			"name": "k1",
+			"desc": "NYU/GRUMMAN K-1"
+		},
+		{
+			"name": "k2",
+			"desc": "GRUMMAN K-2"
+		},
+		{
+			"name": "k3",
+			"desc": "GRUMMAN K-3"
+		},
+		{
+			"name": "k3311",
+			"desc": "K3311 (original)"
+		},
+		{
+			"name": "k3311sm",
+			"desc": "K3311 (Smoothed)"
+		},
+		{
+			"name": "kc135a",
+			"desc": "KC-135 BL52.44"
+		},
+		{
+			"name": "kc135b",
+			"desc": "KC-135 BL124.32"
+		},
+		{
+			"name": "kc135c",
+			"desc": "KC-135 BL200.76"
+		},
+		{
+			"name": "kc135d",
+			"desc": "KC-135 BL351.6"
+		},
+		{
+			"name": "kc135winglet",
+			"desc": "KC-135 Winglet (supercritical Whitcomb)"
+		},
+		{
+			"name": "kenmar",
+			"desc": "KENNEDY AND MARSDEN"
+		},
+		{
+			"name": "l1003",
+			"desc": "LIEBECK L1003"
+		},
+		{
+			"name": "l188root",
+			"desc": "LOCKHEED L-188 ROOT"
+		},
+		{
+			"name": "l188tip",
+			"desc": "LOCKHEED L-188 TIP"
+		},
+		{
+			"name": "l7769",
+			"desc": "LISSAMAN 7769"
+		},
+		{
+			"name": "la203a",
+			"desc": "DOUGLAS LA203A"
+		},
+		{
+			"name": "la2573a",
+			"desc": "LA2573A"
+		},
+		{
+			"name": "la5055",
+			"desc": "LIEBECK LA5055"
+		},
+		{
+			"name": "lds2",
+			"desc": "LDS-2"
+		},
+		{
+			"name": "legionair140_sm",
+			"desc": "Legionair 140 (digitized and Smoothed by MSelig)"
+		},
+		{
+			"name": "lg10sc",
+			"desc": "LOCKHEED-GEORGIA SUPERCRITICAL"
+		},
+		{
+			"name": "lnv109a",
+			"desc": "LNV109A"
+		},
+		{
+			"name": "lrn1007",
+			"desc": "lrn1007"
+		},
+		{
+			"name": "lrn1015",
+			"desc": "NASA LRN 1015 (NASA TM 102840)"
+		},
+		{
+			"name": "ls013",
+			"desc": "NASA/LANGLEY LS(1)-0013"
+		},
+		{
+			"name": "ls413",
+			"desc": "NASA/LANGLEY LS(1)-0413 (GA(W)-2)"
+		},
+		{
+			"name": "ls413mod",
+			"desc": "NASA/LANGLEY LS(1)-0413MOD"
+		},
+		{
+			"name": "ls417",
+			"desc": "NASA/LANGLEY LS(1)-0417 (GA(W)-1)"
+		},
+		{
+			"name": "ls417mod",
+			"desc": "NASA/LANGLEY LS(1)-0417MOD"
+		},
+		{
+			"name": "ls421",
+			"desc": "NASA/LANGLEY LS(1)-0421"
+		},
+		{
+			"name": "ls421mod",
+			"desc": "NASA/LANGLEY LS(1)-0421MOD"
+		},
+		{
+			"name": "lwk79100",
+			"desc": "LWK 79-100"
+		},
+		{
+			"name": "lwk80080",
+			"desc": "LWK 80-080"
+		},
+		{
+			"name": "lwk80100",
+			"desc": "LWK 80-100"
+		},
+		{
+			"name": "lwk80120k25",
+			"desc": "LWK 80-120/K25"
+		},
+		{
+			"name": "lwk80150k25",
+			"desc": "LWK 80-150/K25"
+		},
+		{
+			"name": "m1",
+			"desc": "NACA-M1"
+		},
+		{
+			"name": "m10",
+			"desc": "NACA M10"
+		},
+		{
+			"name": "m11",
+			"desc": "NACA M11"
+		},
+		{
+			"name": "m12",
+			"desc": "NACA M12"
+		},
+		{
+			"name": "m13",
+			"desc": "NACA M13"
+		},
+		{
+			"name": "m14",
+			"desc": "NACA M14"
+		},
+		{
+			"name": "m15",
+			"desc": "NACA M15"
+		},
+		{
+			"name": "m16",
+			"desc": "NACA M16"
+		},
+		{
+			"name": "m17",
+			"desc": "NACA M17"
+		},
+		{
+			"name": "m18",
+			"desc": "NACA M18"
+		},
+		{
+			"name": "m19",
+			"desc": "NACA M19"
+		},
+		{
+			"name": "m2",
+			"desc": "NACA M2"
+		},
+		{
+			"name": "m20",
+			"desc": "NACA M20"
+		},
+		{
+			"name": "m21",
+			"desc": "NACA M21"
+		},
+		{
+			"name": "m22",
+			"desc": "NACA M22"
+		},
+		{
+			"name": "m23",
+			"desc": "NACA M23"
+		},
+		{
+			"name": "m24",
+			"desc": "NACA M24"
+		},
+		{
+			"name": "m25",
+			"desc": "NACA M25"
+		},
+		{
+			"name": "m26",
+			"desc": "NACA M26"
+		},
+		{
+			"name": "m27",
+			"desc": "NACA M27"
+		},
+		{
+			"name": "m3",
+			"desc": "NACA M3"
+		},
+		{
+			"name": "m4",
+			"desc": "NACA M4"
+		},
+		{
+			"name": "m5",
+			"desc": "NACA M5"
+		},
+		{
+			"name": "m6",
+			"desc": "NACA M6"
+		},
+		{
+			"name": "m665",
+			"desc": "M6 (65%)"
+		},
+		{
+			"name": "m685",
+			"desc": "M6 (85%)"
+		},
+		{
+			"name": "m7",
+			"desc": "NACA M7"
+		},
+		{
+			"name": "m8",
+			"desc": "NACA M8"
+		},
+		{
+			"name": "m9",
+			"desc": "NACA M9"
+		},
+		{
+			"name": "ma409",
+			"desc": "MA409 (original)"
+		},
+		{
+			"name": "ma409sm",
+			"desc": "MA409 (Smoothed)"
+		},
+		{
+			"name": "marsden",
+			"desc": "Marsden"
+		},
+		{
+			"name": "marske1",
+			"desc": "MARSKE XM-1D AIRFOIL (F14-3.0)"
+		},
+		{
+			"name": "marske2",
+			"desc": "MARSKE PIONEER IA"
+		},
+		{
+			"name": "marske3",
+			"desc": "MARSKE PIONEER IID ROOT"
+		},
+		{
+			"name": "marske4",
+			"desc": "MARSKE PIONEER IID TIP"
+		},
+		{
+			"name": "marske5",
+			"desc": "MARSKE MONARCH"
+		},
+		{
+			"name": "marske7",
+			"desc": "RONCZ LOW DRAG FLYING WING"
+		},
+		{
+			"name": "mb253515sm",
+			"desc": "MB253515 15.0% Smoothed"
+		},
+		{
+			"name": "mh102",
+			"desc": "MH 102 16.99%"
+		},
+		{
+			"name": "mh104",
+			"desc": "MH 104 15.28%"
+		},
+		{
+			"name": "mh106",
+			"desc": "MH 106 13.07%"
+		},
+		{
+			"name": "mh108",
+			"desc": "MH 108 11.98%"
+		},
+		{
+			"name": "mh110",
+			"desc": "MH 110 10.01%"
+		},
+		{
+			"name": "mh112",
+			"desc": "MH 112 16.2%"
+		},
+		{
+			"name": "mh113",
+			"desc": "MH 113 14.62%"
+		},
+		{
+			"name": "mh114",
+			"desc": "MH 114 13.02%"
+		},
+		{
+			"name": "mh115",
+			"desc": "MH 115 11.06%"
+		},
+		{
+			"name": "mh116",
+			"desc": "MH 116 9.84%"
+		},
+		{
+			"name": "mh117",
+			"desc": "MH 117 9.8%"
+		},
+		{
+			"name": "mh120",
+			"desc": "MH 120 8.0%"
+		},
+		{
+			"name": "mh121",
+			"desc": "MH 121 8.76%"
+		},
+		{
+			"name": "mh122",
+			"desc": "MH 122 9.32%"
+		},
+		{
+			"name": "mh126",
+			"desc": "MH 126 25.0%"
+		},
+		{
+			"name": "mh150",
+			"desc": "MH 150 23.89%"
+		},
+		{
+			"name": "mh18",
+			"desc": "MH 18 11.16%"
+		},
+		{
+			"name": "mh20",
+			"desc": "MH 20 9.01%"
+		},
+		{
+			"name": "mh200",
+			"desc": "MH 200 12.97%"
+		},
+		{
+			"name": "mh201",
+			"desc": "MH 201 13.08%"
+		},
+		{
+			"name": "mh22",
+			"desc": "MH 22 7.2%"
+		},
+		{
+			"name": "mh23",
+			"desc": "MH 23 8%"
+		},
+		{
+			"name": "mh24",
+			"desc": "MH 24 9.01%"
+		},
+		{
+			"name": "mh25",
+			"desc": "MH 25 9.98%"
+		},
+		{
+			"name": "mh26",
+			"desc": "MH 26 10.99%"
+		},
+		{
+			"name": "mh27",
+			"desc": "MH 27 11.99%"
+		},
+		{
+			"name": "mh30",
+			"desc": "MH 30 7.84%"
+		},
+		{
+			"name": "mh32",
+			"desc": "MH 32 8.7%"
+		},
+		{
+			"name": "mh33",
+			"desc": "MH 33"
+		},
+		{
+			"name": "mh38",
+			"desc": "MH 38 9.68%"
+		},
+		{
+			"name": "mh42",
+			"desc": "MH 42 8.94%"
+		},
+		{
+			"name": "mh43",
+			"desc": "MH 43 8.5%"
+		},
+		{
+			"name": "mh44",
+			"desc": "MH 44 9.66%"
+		},
+		{
+			"name": "mh45",
+			"desc": "MH 45 9.85%"
+		},
+		{
+			"name": "mh46",
+			"desc": "MH 46 11.39%"
+		},
+		{
+			"name": "mh49",
+			"desc": "MH 49"
+		},
+		{
+			"name": "mh60",
+			"desc": "MH 60 10.08%"
+		},
+		{
+			"name": "mh61",
+			"desc": "MH 61 10.26%"
+		},
+		{
+			"name": "mh62",
+			"desc": "MH 62 9.3%"
+		},
+		{
+			"name": "mh64",
+			"desc": "MH 64 8.59%"
+		},
+		{
+			"name": "mh70",
+			"desc": "MH 70 11.08%"
+		},
+		{
+			"name": "mh78",
+			"desc": "MH 78 14.47%"
+		},
+		{
+			"name": "mh80",
+			"desc": "MH 80 12.72%"
+		},
+		{
+			"name": "mh81",
+			"desc": "MH 81 13%"
+		},
+		{
+			"name": "mh82",
+			"desc": "MH 82 13.31%"
+		},
+		{
+			"name": "mh83",
+			"desc": "MH 83 13.29%"
+		},
+		{
+			"name": "mh84",
+			"desc": "MH 84 13.69%"
+		},
+		{
+			"name": "mh91",
+			"desc": "MH 91 14.98%"
+		},
+		{
+			"name": "mh92",
+			"desc": "MH 92 15.49%"
+		},
+		{
+			"name": "mh93",
+			"desc": "MH 93 15.98%"
+		},
+		{
+			"name": "mh94",
+			"desc": "MH 94 16.03%"
+		},
+		{
+			"name": "mh95",
+			"desc": "MH 95 15.86%"
+		},
+		{
+			"name": "mi-strut1",
+			"desc": "MI-STRUT1"
+		},
+		{
+			"name": "mi-vawt1",
+			"desc": "MI-VAWT1"
+		},
+		{
+			"name": "miley",
+			"desc": "MILEY M06-13-128"
+		},
+		{
+			"name": "mrc-16",
+			"desc": "MRC-16"
+		},
+		{
+			"name": "mrc-20",
+			"desc": "MRC-20"
+		},
+		{
+			"name": "ms313",
+			"desc": "NASA/LANGLEY MS(1)-0313"
+		},
+		{
+			"name": "ms317",
+			"desc": "NASA/LANGLEY MS(1)-0317"
+		},
+		{
+			"name": "mue139",
+			"desc": "MUE 139"
+		},
+		{
+			"name": "n0009sm",
+			"desc": "NACA-0009 9.0% Smoothed"
+		},
+		{
+			"name": "n0011sc",
+			"desc": "NACA/LANGLEY SYMMETRICAL, SUPERCRITICAL"
+		},
+		{
+			"name": "n0012",
+			"desc": "NACA 0012 AIRFOILS"
+		},
+		{
+			"name": "n10",
+			"desc": "N-10"
+		},
+		{
+			"name": "n11",
+			"desc": "N-11"
+		},
+		{
+			"name": "n11h9",
+			"desc": "NACA 11-H-09"
+		},
+		{
+			"name": "n12",
+			"desc": "N-12"
+		},
+		{
+			"name": "n13",
+			"desc": "N-13"
+		},
+		{
+			"name": "n14",
+			"desc": "N-14"
+		},
+		{
+			"name": "n1h15",
+			"desc": "NACA 1-H-15"
+		},
+		{
+			"name": "n22",
+			"desc": "N-22"
+		},
+		{
+			"name": "n24",
+			"desc": "N-24"
+		},
+		{
+			"name": "n2414",
+			"desc": "NACA 2414"
+		},
+		{
+			"name": "n2415",
+			"desc": "NACA 2415"
+		},
+		{
+			"name": "n2h15",
+			"desc": "NACA 2-H-15"
+		},
+		{
+			"name": "n5h10",
+			"desc": "NACA 5-H-10"
+		},
+		{
+			"name": "n5h15",
+			"desc": "NACA 5-H-15"
+		},
+		{
+			"name": "n5h20",
+			"desc": "NACA 5-H-20"
+		},
+		{
+			"name": "n63010a",
+			"desc": "NACA 63A010"
+		},
+		{
+			"name": "n63012a",
+			"desc": "NACA 63012A"
+		},
+		{
+			"name": "n63015a",
+			"desc": "NACA 63-015A"
+		},
+		{
+			"name": "n63210",
+			"desc": "NACA 63-210"
+		},
+		{
+			"name": "n63212",
+			"desc": "NACA 63-212"
+		},
+		{
+			"name": "n63215",
+			"desc": "NACA 63-215"
+		},
+		{
+			"name": "n63215b",
+			"desc": "NACA 63(2)-215 MOD B"
+		},
+		{
+			"name": "n63412",
+			"desc": "NACA 63-412"
+		},
+		{
+			"name": "n63415",
+			"desc": "NACA 63-415"
+		},
+		{
+			"name": "n64008a",
+			"desc": "NACA 64-008A"
+		},
+		{
+			"name": "n64012",
+			"desc": "NASA/LANGLEY 64-012"
+		},
+		{
+			"name": "n64012a",
+			"desc": "NACA 64-012A"
+		},
+		{
+			"name": "n64015",
+			"desc": "NACA 642-015"
+		},
+		{
+			"name": "n64015a",
+			"desc": "NACA 642-015A"
+		},
+		{
+			"name": "n6409",
+			"desc": "NACA6409 9%"
+		},
+		{
+			"name": "n64108",
+			"desc": "NACA 64-108"
+		},
+		{
+			"name": "n64110",
+			"desc": "NACA 64-110"
+		},
+		{
+			"name": "n64212",
+			"desc": "NACA 64(1)-212"
+		},
+		{
+			"name": "n64212ma",
+			"desc": "NACA 64(1)-212 MOD A"
+		},
+		{
+			"name": "n64212mb",
+			"desc": "NACA 64(1)-212 MOD B"
+		},
+		{
+			"name": "n64215",
+			"desc": "NACA 64-215"
+		},
+		{
+			"name": "n642415",
+			"desc": "NACA 64(2)-415"
+		},
+		{
+			"name": "n66021",
+			"desc": "NACA 66-021"
+		},
+		{
+			"name": "n6h10",
+			"desc": "NACA 6-H-10"
+		},
+		{
+			"name": "n6h15",
+			"desc": "NACA 6-H-15"
+		},
+		{
+			"name": "n6h20",
+			"desc": "NACA 6-H-20"
+		},
+		{
+			"name": "n8h12",
+			"desc": "NACA 8-H-12"
+		},
+		{
+			"name": "n9",
+			"desc": "N-9"
+		},
+		{
+			"name": "naca0006",
+			"desc": "NACA 0006"
+		},
+		{
+			"name": "naca0008",
+			"desc": "NACA 0008"
+		},
+		{
+			"name": "naca000834",
+			"desc": "NACA 0008-34"
+		},
+		{
+			"name": "naca0010",
+			"desc": "NACA 0010"
+		},
+		{
+			"name": "naca001034",
+			"desc": "NACA 0010-34"
+		},
+		{
+			"name": "naca001034a08cli0.2",
+			"desc": "NACA 0010-34 a=0.8 c(li)=0.2"
+		},
+		{
+			"name": "naca001035",
+			"desc": "NACA 0010-35"
+		},
+		{
+			"name": "naca001064",
+			"desc": "NACA 0010-64"
+		},
+		{
+			"name": "naca001065",
+			"desc": "NACA 0010-65"
+		},
+		{
+			"name": "naca001066",
+			"desc": "NACA 0010-66"
+		},
+		{
+			"name": "naca001234",
+			"desc": "NACA 0012-34"
+		},
+		{
+			"name": "naca001264",
+			"desc": "NACA 0012-64"
+		},
+		{
+			"name": "naca001264a08cli0.2",
+			"desc": "NACA 0012-64 a=0.8 c(li)=0.2"
+		},
+		{
+			"name": "naca0015",
+			"desc": "NACA 0015"
+		},
+		{
+			"name": "naca0018",
+			"desc": "NACA 0018"
+		},
+		{
+			"name": "naca0021",
+			"desc": "NACA 0021"
+		},
+		{
+			"name": "naca0024",
+			"desc": "NACA 0024"
+		},
+		{
+			"name": "naca1",
+			"desc": "NACA-1 COWL"
+		},
+		{
+			"name": "naca1408",
+			"desc": "NACA 1408"
+		},
+		{
+			"name": "naca1410",
+			"desc": "NACA 1410"
+		},
+		{
+			"name": "naca1412",
+			"desc": "NACA 1412"
+		},
+		{
+			"name": "naca16006",
+			"desc": "NACA 16-006"
+		},
+		{
+			"name": "naca16009",
+			"desc": "NACA 16009"
+		},
+		{
+			"name": "naca16012",
+			"desc": "NACA 16-012"
+		},
+		{
+			"name": "naca16015",
+			"desc": "NACA 16-015"
+		},
+		{
+			"name": "naca16018",
+			"desc": "NACA 16-018"
+		},
+		{
+			"name": "naca16021",
+			"desc": "NACA 16-021"
+		},
+		{
+			"name": "naca23012",
+			"desc": "NACA 23012 12%"
+		},
+		{
+			"name": "naca23015",
+			"desc": "NACA 23015"
+		},
+		{
+			"name": "naca23018",
+			"desc": "NACA 23018"
+		},
+		{
+			"name": "naca23021",
+			"desc": "NACA 23021"
+		},
+		{
+			"name": "naca23024",
+			"desc": "NACA 23024"
+		},
+		{
+			"name": "naca2408",
+			"desc": "NACA 2408"
+		},
+		{
+			"name": "naca2410",
+			"desc": "NACA 2410"
+		},
+		{
+			"name": "naca2411",
+			"desc": "NACA 2.5411"
+		},
+		{
+			"name": "naca2412",
+			"desc": "NACA 2412"
+		},
+		{
+			"name": "naca2415",
+			"desc": "NACA 2415"
+		},
+		{
+			"name": "naca2418",
+			"desc": "NACA 2418"
+		},
+		{
+			"name": "naca2421",
+			"desc": "NACA 2421"
+		},
+		{
+			"name": "naca2424",
+			"desc": "NACA 2424"
+		},
+		{
+			"name": "naca4412",
+			"desc": "NACA 4412"
+		},
+		{
+			"name": "naca4415",
+			"desc": "NACA 4415"
+		},
+		{
+			"name": "naca4418",
+			"desc": "NACA 4418"
+		},
+		{
+			"name": "naca4421",
+			"desc": "NACA 4421"
+		},
+		{
+			"name": "naca4424",
+			"desc": "NACA 4424"
+		},
+		{
+			"name": "naca63206",
+			"desc": "NACA 63-206"
+		},
+		{
+			"name": "naca63209",
+			"desc": "NACA 63-209"
+		},
+		{
+			"name": "naca632615",
+			"desc": "NACA 63(2)-615"
+		},
+		{
+			"name": "naca632a015",
+			"desc": "NACA 63(2)A-015"
+		},
+		{
+			"name": "naca633018",
+			"desc": "NACA 63(3)-018"
+		},
+		{
+			"name": "naca633218",
+			"desc": "NACA 63(3)-218"
+		},
+		{
+			"name": "naca633418",
+			"desc": "NACA 63,3-418"
+		},
+		{
+			"name": "naca633618",
+			"desc": "NACA 63(3)-618"
+		},
+		{
+			"name": "naca634221",
+			"desc": "NACA 63(4)-221"
+		},
+		{
+			"name": "naca634421",
+			"desc": "NACA 63(4)-421"
+		},
+		{
+			"name": "naca63a210",
+			"desc": "NACA 63A210"
+		},
+		{
+			"name": "naca641112",
+			"desc": "NACA 64(1)-112"
+		},
+		{
+			"name": "naca6412",
+			"desc": "NACA 6412"
+		},
+		{
+			"name": "naca64206",
+			"desc": "NACA 64-206"
+		},
+		{
+			"name": "naca64208",
+			"desc": "NACA 64-208"
+		},
+		{
+			"name": "naca64209",
+			"desc": "NACA 64-209"
+		},
+		{
+			"name": "naca64210",
+			"desc": "NACA 64-210"
+		},
+		{
+			"name": "naca642215",
+			"desc": "NACA 64(2)-215"
+		},
+		{
+			"name": "naca642415",
+			"desc": "NACA 64(2)-415"
+		},
+		{
+			"name": "naca643218",
+			"desc": "NACA 64(3)-218"
+		},
+		{
+			"name": "naca643418",
+			"desc": "NACA 64(3)-418"
+		},
+		{
+			"name": "naca643618",
+			"desc": "NACA 64(3)-618"
+		},
+		{
+			"name": "naca644221",
+			"desc": "NACA 64(4)-221"
+		},
+		{
+			"name": "naca644421",
+			"desc": "NACA 64(4)-421"
+		},
+		{
+			"name": "naca64a010",
+			"desc": "NACA 64A-010 10.0%"
+		},
+		{
+			"name": "naca64a210",
+			"desc": "NACA 64A210"
+		},
+		{
+			"name": "naca64a410",
+			"desc": "NACA 64A410"
+		},
+		{
+			"name": "naca651212",
+			"desc": "NACA 65(1)-212"
+		},
+		{
+			"name": "naca651212a06",
+			"desc": "NACA 65(1)-212 a=0.6"
+		},
+		{
+			"name": "naca651412",
+			"desc": "NACA 65(1)-412"
+		},
+		{
+			"name": "naca65206",
+			"desc": "NACA 65-206"
+		},
+		{
+			"name": "naca65209",
+			"desc": "NACA 65-209"
+		},
+		{
+			"name": "naca65210",
+			"desc": "NACA 65-210"
+		},
+		{
+			"name": "naca652215",
+			"desc": "NACA 65(2)-215"
+		},
+		{
+			"name": "naca652415",
+			"desc": "NACA 65(2)-415"
+		},
+		{
+			"name": "naca652415a05",
+			"desc": "NACA 65(2)-415 a=0.5"
+		},
+		{
+			"name": "naca653218",
+			"desc": "NACA 65(3)-218"
+		},
+		{
+			"name": "naca653618",
+			"desc": "NACA 65(3)-618"
+		},
+		{
+			"name": "naca65410",
+			"desc": "NACA 65-410"
+		},
+		{
+			"name": "naca654221",
+			"desc": "NACA 65(4)-221"
+		},
+		{
+			"name": "naca654421",
+			"desc": "NACA 65(4)-421"
+		},
+		{
+			"name": "naca654421a05",
+			"desc": "NACA 65(4)-421 a=0.5"
+		},
+		{
+			"name": "naca66-018",
+			"desc": "NACA 66-018"
+		},
+		{
+			"name": "naca661212",
+			"desc": "NACA 66(1)-212"
+		},
+		{
+			"name": "naca66206",
+			"desc": "NACA 66-206"
+		},
+		{
+			"name": "naca66209",
+			"desc": "NACA 66-209"
+		},
+		{
+			"name": "naca66210",
+			"desc": "NACA 66-210"
+		},
+		{
+			"name": "naca662215",
+			"desc": "NACA 66(2)-215"
+		},
+		{
+			"name": "naca662415",
+			"desc": "NACA 66(2)-415"
+		},
+		{
+			"name": "naca663218",
+			"desc": "NACA 66(3)-218"
+		},
+		{
+			"name": "naca663418",
+			"desc": "NACA 66(3)-418"
+		},
+		{
+			"name": "naca664221",
+			"desc": "NACA 66(4)-221"
+		},
+		{
+			"name": "naca671215",
+			"desc": "NACA 67,1-215"
+		},
+		{
+			"name": "naca747a315",
+			"desc": "NACA 747A315"
+		},
+		{
+			"name": "naca747a415",
+			"desc": "NACA 747A415"
+		},
+		{
+			"name": "nacacyh",
+			"desc": "NACA CYH"
+		},
+		{
+			"name": "nacam12",
+			"desc": "NACA M12"
+		},
+		{
+			"name": "nacam18",
+			"desc": "NACA M18"
+		},
+		{
+			"name": "nacam2",
+			"desc": "NACA M2"
+		},
+		{
+			"name": "nacam3",
+			"desc": "NACA M3"
+		},
+		{
+			"name": "nacam6",
+			"desc": "NACA M6"
+		},
+		{
+			"name": "nasasc2-0714",
+			"desc": "SC(2)-0714"
+		},
+		{
+			"name": "ncambre",
+			"desc": "ONERA NACA CAMBRE"
+		},
+		{
+			"name": "nl722343",
+			"desc": "NLR-7223-43"
+		},
+		{
+			"name": "nl722362",
+			"desc": "NLR-7223-62"
+		},
+		{
+			"name": "nlf0115",
+			"desc": "NASA NLF(1)-0115"
+		},
+		{
+			"name": "nlf0215f",
+			"desc": "NASA NLF(1)-0215F"
+		},
+		{
+			"name": "nlf1015",
+			"desc": "NASA NLF(1)-1015"
+		},
+		{
+			"name": "nlf414f",
+			"desc": "NASA NLF(1)-0414F"
+		},
+		{
+			"name": "nlf415",
+			"desc": "NASA/DLR NLF(2)-0415"
+		},
+		{
+			"name": "nlf416",
+			"desc": "NASA NLF(1)-0416"
+		},
+		{
+			"name": "nlr1t",
+			"desc": "NLR-1T"
+		},
+		{
+			"name": "nlr7301",
+			"desc": "NLR-7301"
+		},
+		{
+			"name": "nn7mk20",
+			"desc": "NN7 MK20"
+		},
+		{
+			"name": "npl9510",
+			"desc": "NPL 9510"
+		},
+		{
+			"name": "npl9615",
+			"desc": "NPL 9615"
+		},
+		{
+			"name": "npl9626",
+			"desc": "NPL 9626"
+		},
+		{
+			"name": "npl9627",
+			"desc": "NPL 9627"
+		},
+		{
+			"name": "npl9660",
+			"desc": "NPL 9660"
+		},
+		{
+			"name": "nplx",
+			"desc": "NPL AIRFOIL FROM ARC CP 1372"
+		},
+		{
+			"name": "oa206",
+			"desc": "ONERA OA206"
+		},
+		{
+			"name": "oa209",
+			"desc": "ONERA OA209"
+		},
+		{
+			"name": "oa212",
+			"desc": "ONERA OA212"
+		},
+		{
+			"name": "oa213",
+			"desc": "ONERA OA213"
+		},
+		{
+			"name": "oaf095",
+			"desc": "OAF095"
+		},
+		{
+			"name": "oaf102",
+			"desc": "OAF102"
+		},
+		{
+			"name": "oaf117",
+			"desc": "OAF117"
+		},
+		{
+			"name": "oaf128",
+			"desc": "OAF128"
+		},
+		{
+			"name": "oaf139",
+			"desc": "OAF139"
+		},
+		{
+			"name": "p51droot",
+			"desc": "P-51D ROOT (BL17.5)"
+		},
+		{
+			"name": "p51dtip",
+			"desc": "P-51D TIP (BL215)"
+		},
+		{
+			"name": "p51hroot",
+			"desc": "NACA 66,2-(1.8)15.5 A=.6 P-51 ROOT"
+		},
+		{
+			"name": "p51htip",
+			"desc": "NACA 66,2-(1.8)12 A=.6 P-51 TIP"
+		},
+		{
+			"name": "pfcm",
+			"desc": "PROPFAN CRUISE MISSILE WING"
+		},
+		{
+			"name": "pmc19sm",
+			"desc": "PMC19 Smoothed"
+		},
+		{
+			"name": "prandtl-d-centerline",
+			"desc": "Prandtl-D Centerline NASA TP-2016-219072"
+		},
+		{
+			"name": "prandtl-d-wingtip",
+			"desc": "Prandtl-D Wingtip NASA TP-2016-219072"
+		},
+		{
+			"name": "psu-90-125wl",
+			"desc": "PSU-90-125WL"
+		},
+		{
+			"name": "psu94097",
+			"desc": "PSU 94-097 (AIAA 2001-2478)"
+		},
+		{
+			"name": "pt40",
+			"desc": "PT40"
+		},
+		{
+			"name": "r1046",
+			"desc": "RONCZ 1046 VOYAGER CANARD"
+		},
+		{
+			"name": "r1080",
+			"desc": "RONCZ 1080 VOYAGER INNER AFT WING"
+		},
+		{
+			"name": "r1082",
+			"desc": "RONCZ 1082 VOYAGER ROOT OUTER AFT WING"
+		},
+		{
+			"name": "r1082t",
+			"desc": "RONCZ 1082T VOYAGER TIP OUTER AFT WING"
+		},
+		{
+			"name": "r1145ms",
+			"desc": "RONCZ R1145MS"
+		},
+		{
+			"name": "r1145msf",
+			"desc": "RONCZ R1145MS FLAP ELEMENT (LONG EZ PIVOT X=0.6874131, Z=-.0138996)"
+		},
+		{
+			"name": "r1145msm",
+			"desc": "RONCZ R1145MS MAIN ELEMENT"
+		},
+		{
+			"name": "r140",
+			"desc": "R140 (original)"
+		},
+		{
+			"name": "r140sm",
+			"desc": "R140 12.04% (Smoothed)"
+		},
+		{
+			"name": "rae100",
+			"desc": "RAE 100"
+		},
+		{
+			"name": "rae101",
+			"desc": "RAE 101"
+		},
+		{
+			"name": "rae102",
+			"desc": "RAE 102"
+		},
+		{
+			"name": "rae103",
+			"desc": "RAE 103"
+		},
+		{
+			"name": "rae104",
+			"desc": "RAE 104"
+		},
+		{
+			"name": "rae2822",
+			"desc": "RAE 2822"
+		},
+		{
+			"name": "rae5212",
+			"desc": "RAE(NPL) 5212"
+		},
+		{
+			"name": "rae5213",
+			"desc": "RAE(NPL) 5213"
+		},
+		{
+			"name": "rae5214",
+			"desc": "RAE 5214"
+		},
+		{
+			"name": "rae5215",
+			"desc": "RAE 5215"
+		},
+		{
+			"name": "rae69ck",
+			"desc": "RAE6-9CK"
+		},
+		{
+			"name": "raf15",
+			"desc": "RAF 15"
+		},
+		{
+			"name": "raf19",
+			"desc": "RAF 19"
+		},
+		{
+			"name": "raf25",
+			"desc": "RAF 25"
+		},
+		{
+			"name": "raf26",
+			"desc": "RAF 26"
+		},
+		{
+			"name": "raf27",
+			"desc": "RAF 27"
+		},
+		{
+			"name": "raf28",
+			"desc": "RAF 28"
+		},
+		{
+			"name": "raf30",
+			"desc": "RAF 30"
+		},
+		{
+			"name": "raf30md",
+			"desc": "RAF 30 MOD"
+		},
+		{
+			"name": "raf31",
+			"desc": "RAF 31"
+		},
+		{
+			"name": "raf32",
+			"desc": "RAF 32"
+		},
+		{
+			"name": "raf32md",
+			"desc": "RAF 32 MOD"
+		},
+		{
+			"name": "raf33",
+			"desc": "RAF 33"
+		},
+		{
+			"name": "raf34",
+			"desc": "RAF 34"
+		},
+		{
+			"name": "raf38",
+			"desc": "RAF 38"
+		},
+		{
+			"name": "raf48",
+			"desc": "RAF-48"
+		},
+		{
+			"name": "raf6",
+			"desc": "RAF 6"
+		},
+		{
+			"name": "raf69",
+			"desc": "RAF 69"
+		},
+		{
+			"name": "raf6prop_sm",
+			"desc": "RAF 6"
+		},
+		{
+			"name": "raf89",
+			"desc": "RAF 89"
+		},
+		{
+			"name": "rc0864c",
+			"desc": "NASA/LANGLEY RC08-64C"
+		},
+		{
+			"name": "rc08b3",
+			"desc": "NASA/LANGLEY RC-08(B)3"
+		},
+		{
+			"name": "rc08n1",
+			"desc": "NASA/LANGLEY RC-08(N)1"
+		},
+		{
+			"name": "rc1064c",
+			"desc": "NASA/LANGLEY RC10-64C"
+		},
+		{
+			"name": "rc10b3",
+			"desc": "NASA/LANGLEY RC-10(B)3"
+		},
+		{
+			"name": "rc10n1",
+			"desc": "NASA/LANGLEY RC-10(N)1"
+		},
+		{
+			"name": "rc1264c",
+			"desc": "NASA/LANGLEY RC12-64C"
+		},
+		{
+			"name": "rc12b3",
+			"desc": "NASA/LANGLEY RC-12(B)3"
+		},
+		{
+			"name": "rc12n1",
+			"desc": "NASA/LANGLEY RC-12(N)1"
+		},
+		{
+			"name": "rc410",
+			"desc": "NASA RC(4)-10"
+		},
+		{
+			"name": "rc510",
+			"desc": "NASA RC(5)-10"
+		},
+		{
+			"name": "rcsc2",
+			"desc": "NASA/LANGLEY RC-SC2"
+		},
+		{
+			"name": "rg12",
+			"desc": "RG-12"
+		},
+		{
+			"name": "rg12a",
+			"desc": "PROFILE12A 9.00%"
+		},
+		{
+			"name": "rg12a189",
+			"desc": "RG 12A-1.8/9.0"
+		},
+		{
+			"name": "rg14",
+			"desc": "RG 14"
+		},
+		{
+			"name": "rg1410",
+			"desc": "RG 14 10%"
+		},
+		{
+			"name": "rg149",
+			"desc": "RG 14 9%"
+		},
+		{
+			"name": "rg1495",
+			"desc": "RG 14 9.5%"
+		},
+		{
+			"name": "rg14a147",
+			"desc": "RG 14A-1.4/7.0"
+		},
+		{
+			"name": "rg15",
+			"desc": "RG-15 8.9%"
+		},
+		{
+			"name": "rg15a111",
+			"desc": "RG 15A-1.8/11.0"
+		},
+		{
+			"name": "rg15a213",
+			"desc": "RG 15A 2.5/13.0"
+		},
+		{
+			"name": "rg8",
+			"desc": "RG 8"
+		},
+		{
+			"name": "rhodesg30",
+			"desc": "Rhode St. Genese 30"
+		},
+		{
+			"name": "rhodesg32",
+			"desc": "Rhode St. Genese 32"
+		},
+		{
+			"name": "rhodesg34",
+			"desc": "Rhode St. Genese 34"
+		},
+		{
+			"name": "rhodesg36",
+			"desc": "Rhode St. Genese 36"
+		},
+		{
+			"name": "s1010",
+			"desc": "S1010 HPV airfoil"
+		},
+		{
+			"name": "s1012",
+			"desc": "S1012"
+		},
+		{
+			"name": "s1014",
+			"desc": "S1014"
+		},
+		{
+			"name": "s1016",
+			"desc": "S1016"
+		},
+		{
+			"name": "s1020",
+			"desc": "S1020 Ornithopter"
+		},
+		{
+			"name": "s102b",
+			"desc": "SOMERS S102 AIRFOIL (BLUNT)"
+		},
+		{
+			"name": "s102s",
+			"desc": "SOMERS S102 AIRFOIL (SHARP)"
+		},
+		{
+			"name": "s1046",
+			"desc": "S1046 17% (Danny Howell)"
+		},
+		{
+			"name": "s1048",
+			"desc": "S1048 14% (Danny Howell)"
+		},
+		{
+			"name": "s1091",
+			"desc": "S1091"
+		},
+		{
+			"name": "s1210",
+			"desc": "S1210 12%"
+		},
+		{
+			"name": "s1221-4deg-flap",
+			"desc": "S1221 w/ 4 deg flap"
+		},
+		{
+			"name": "s1221",
+			"desc": "S1221 w/o flap"
+		},
+		{
+			"name": "s1223",
+			"desc": "S1223"
+		},
+		{
+			"name": "s1223rtl",
+			"desc": "S1223 RTL"
+		},
+		{
+			"name": "s2027",
+			"desc": "S2027"
+		},
+		{
+			"name": "s2046",
+			"desc": "S2046"
+		},
+		{
+			"name": "s2048",
+			"desc": "S2048"
+		},
+		{
+			"name": "s2050",
+			"desc": "S2050 8.93%"
+		},
+		{
+			"name": "s2055",
+			"desc": "S2055"
+		},
+		{
+			"name": "s2060",
+			"desc": "S2060 8%"
+		},
+		{
+			"name": "s2062",
+			"desc": "S2062 8%"
+		},
+		{
+			"name": "s2091",
+			"desc": "S2091-101-83"
+		},
+		{
+			"name": "s3",
+			"desc": "REPUBLIC S-3"
+		},
+		{
+			"name": "s3002",
+			"desc": "SELIG 3002-099-83"
+		},
+		{
+			"name": "s3010",
+			"desc": "S3010-103-84"
+		},
+		{
+			"name": "s3014",
+			"desc": "S3014-095-85"
+		},
+		{
+			"name": "s3016",
+			"desc": "S3016-095-87"
+		},
+		{
+			"name": "s3021",
+			"desc": "S3021-095-84"
+		},
+		{
+			"name": "s3024",
+			"desc": "S3024 9.84%"
+		},
+		{
+			"name": "s3025",
+			"desc": "S3025 9.38%"
+		},
+		{
+			"name": "s4022",
+			"desc": "S4022"
+		},
+		{
+			"name": "s4053",
+			"desc": "S4053"
+		},
+		{
+			"name": "s4061",
+			"desc": "S4061-096-84"
+		},
+		{
+			"name": "s4062",
+			"desc": "S4062-095-87"
+		},
+		{
+			"name": "s4083",
+			"desc": "S4083 (8%)"
+		},
+		{
+			"name": "s4094",
+			"desc": "S4094"
+		},
+		{
+			"name": "s4095",
+			"desc": "S4095"
+		},
+		{
+			"name": "s4096",
+			"desc": "S4096"
+		},
+		{
+			"name": "s4110",
+			"desc": "S4110"
+		},
+		{
+			"name": "s4158",
+			"desc": "S4158"
+		},
+		{
+			"name": "s4180",
+			"desc": "S4180-098-84"
+		},
+		{
+			"name": "s4233",
+			"desc": "S4233-136-84"
+		},
+		{
+			"name": "s4310",
+			"desc": "S4310"
+		},
+		{
+			"name": "s4320",
+			"desc": "S4320"
+		},
+		{
+			"name": "s5010",
+			"desc": "S5010"
+		},
+		{
+			"name": "s5020",
+			"desc": "S5020"
+		},
+		{
+			"name": "s6061",
+			"desc": "S6061 9%"
+		},
+		{
+			"name": "s6062",
+			"desc": "S6062 8%"
+		},
+		{
+			"name": "s6063",
+			"desc": "S6063 7.05%"
+		},
+		{
+			"name": "s7012",
+			"desc": "S7012 8.75%"
+		},
+		{
+			"name": "s7055",
+			"desc": "S7055 (10.5%) Flat-Bottomed"
+		},
+		{
+			"name": "s7075",
+			"desc": "S7075 (9%)"
+		},
+		{
+			"name": "s8021",
+			"desc": "S8021 (7.6%)"
+		},
+		{
+			"name": "s8023",
+			"desc": "S8023 (7.6%)"
+		},
+		{
+			"name": "s8025",
+			"desc": "S8025 (8%)"
+		},
+		{
+			"name": "s8035",
+			"desc": "S8035"
+		},
+		{
+			"name": "s8036",
+			"desc": "S8036 (16%)"
+		},
+		{
+			"name": "s8037",
+			"desc": "S8037 (16%)"
+		},
+		{
+			"name": "s8038",
+			"desc": "S8038 (13%)"
+		},
+		{
+			"name": "s8052",
+			"desc": "S8052 (11.88%)"
+		},
+		{
+			"name": "s8055",
+			"desc": "S8055 (12%)"
+		},
+		{
+			"name": "s8064",
+			"desc": "S8064"
+		},
+		{
+			"name": "s8065",
+			"desc": "S8065 (11% version of S8064)"
+		},
+		{
+			"name": "s8066",
+			"desc": "S8066"
+		},
+		{
+			"name": "s9000",
+			"desc": "S9000 (9%)"
+		},
+		{
+			"name": "s9026",
+			"desc": "S9026 (9.5%)"
+		},
+		{
+			"name": "s9027",
+			"desc": "S9027 (8%)"
+		},
+		{
+			"name": "s9032",
+			"desc": "S9032 (9%)"
+		},
+		{
+			"name": "s9033",
+			"desc": "S9033 (7.5%)"
+		},
+		{
+			"name": "s9037",
+			"desc": "S9037 (9%)"
+		},
+		{
+			"name": "s9104",
+			"desc": "S9104"
+		},
+		{
+			"name": "s9104BTE",
+			"desc": "S9104BTE"
+		},
+		{
+			"name": "sa7024",
+			"desc": "SA7024"
+		},
+		{
+			"name": "sa7025",
+			"desc": "SA7025"
+		},
+		{
+			"name": "sa7026",
+			"desc": "SA7026"
+		},
+		{
+			"name": "sa7035",
+			"desc": "SA7035"
+		},
+		{
+			"name": "sa7036",
+			"desc": "SA7036"
+		},
+		{
+			"name": "sa7038",
+			"desc": "SA7038"
+		},
+		{
+			"name": "saratov",
+			"desc": "SARATOV"
+		},
+		{
+			"name": "sc1012r8",
+			"desc": "SIKORSKY SC1012R8"
+		},
+		{
+			"name": "sc1094r8",
+			"desc": "SIKORSKY SC1094 R8"
+		},
+		{
+			"name": "sc1095",
+			"desc": "SIKORSKY SC1095"
+		},
+		{
+			"name": "sc1095r8",
+			"desc": "SIKORSKY SC1095R8"
+		},
+		{
+			"name": "sc20010",
+			"desc": "NASA SC(2)-0010"
+		},
+		{
+			"name": "sc20012",
+			"desc": "NASA SC(2)-0012"
+		},
+		{
+			"name": "sc20402",
+			"desc": "NASA SC(2)-0402"
+		},
+		{
+			"name": "sc20403",
+			"desc": "NASA SC(2)-0403"
+		},
+		{
+			"name": "sc20404",
+			"desc": "NASA SC(2)-0404"
+		},
+		{
+			"name": "sc20406",
+			"desc": "NASA SC(2)-0406"
+		},
+		{
+			"name": "sc20410",
+			"desc": "NASA SC(2)-0410"
+		},
+		{
+			"name": "sc20412",
+			"desc": "NASA SC(2)-0412"
+		},
+		{
+			"name": "sc20414",
+			"desc": "NASA SC(2)-0414"
+		},
+		{
+			"name": "sc20503",
+			"desc": "NASA SC(2)-0503"
+		},
+		{
+			"name": "sc20518",
+			"desc": "NASA SC(2)-0518"
+		},
+		{
+			"name": "sc20606",
+			"desc": "NASA SC(2)-0606"
+		},
+		{
+			"name": "sc20610",
+			"desc": "NASA SC(2)-0610"
+		},
+		{
+			"name": "sc20612",
+			"desc": "NASA SC(2)-0612"
+		},
+		{
+			"name": "sc20614",
+			"desc": "NASA SC(2)-0614"
+		},
+		{
+			"name": "sc20706",
+			"desc": "NASA SC(2)-0706"
+		},
+		{
+			"name": "sc20710",
+			"desc": "NASA SC(2)-0710"
+		},
+		{
+			"name": "sc20712",
+			"desc": "NASA SC(2)-0712"
+		},
+		{
+			"name": "sc20714",
+			"desc": "NASA SC(2)-0714"
+		},
+		{
+			"name": "sc21006",
+			"desc": "NASA SC(2)-1006"
+		},
+		{
+			"name": "sc21010",
+			"desc": "NASA SC(2)-1010"
+		},
+		{
+			"name": "sc2110",
+			"desc": "SIKORSKY SC2110"
+		},
+		{
+			"name": "sd2030",
+			"desc": "SD2030-086-88"
+		},
+		{
+			"name": "sd2083",
+			"desc": "SD2083 (9.0%)"
+		},
+		{
+			"name": "sd5060",
+			"desc": "SD5060 (9.5%)"
+		},
+		{
+			"name": "sd6060",
+			"desc": "SD6060-104-88"
+		},
+		{
+			"name": "sd6080",
+			"desc": "SD6080 (9.2%)"
+		},
+		{
+			"name": "sd7003",
+			"desc": "SD7003-085-88"
+		},
+		{
+			"name": "sd7032",
+			"desc": "SD7032-099-88"
+		},
+		{
+			"name": "sd7034",
+			"desc": "SD7034"
+		},
+		{
+			"name": "sd7037",
+			"desc": "SD7037-092-88"
+		},
+		{
+			"name": "sd7043",
+			"desc": "SD7043 (9.1%)"
+		},
+		{
+			"name": "sd7062",
+			"desc": "SD7062 (14%)"
+		},
+		{
+			"name": "sd7080",
+			"desc": "SD7080 (9.2%)"
+		},
+		{
+			"name": "sd7084",
+			"desc": "SD7084 (9.6%)"
+		},
+		{
+			"name": "sd7090",
+			"desc": "SD7090 (10%)"
+		},
+		{
+			"name": "sd8000",
+			"desc": "SD8000-089-88"
+		},
+		{
+			"name": "sd8020",
+			"desc": "SD8020-010-88"
+		},
+		{
+			"name": "sd8040",
+			"desc": "SD8040 (10%)"
+		},
+		{
+			"name": "sg6040",
+			"desc": "SG6040"
+		},
+		{
+			"name": "sg6041",
+			"desc": "SG6041"
+		},
+		{
+			"name": "sg6042",
+			"desc": "SG6042"
+		},
+		{
+			"name": "sg6043",
+			"desc": "SG6043"
+		},
+		{
+			"name": "sg6050",
+			"desc": "SG6050"
+		},
+		{
+			"name": "sg6051",
+			"desc": "SG6051"
+		},
+		{
+			"name": "sm701",
+			"desc": "SM701"
+		},
+		{
+			"name": "sokolov",
+			"desc": "SOKOLOV"
+		},
+		{
+			"name": "sp4621hp",
+			"desc": "SP4621HP"
+		},
+		{
+			"name": "sp4721bs",
+			"desc": "SP4721BS"
+		},
+		{
+			"name": "sp4721la",
+			"desc": "SP4721LA"
+		},
+		{
+			"name": "spicasm",
+			"desc": "SPICA 11.73% Smoothed"
+		},
+		{
+			"name": "ssca07",
+			"desc": "SIKORSKY SSC-A07"
+		},
+		{
+			"name": "ssca09",
+			"desc": "SIKORSKY SSC-A09"
+		},
+		{
+			"name": "stcyr171",
+			"desc": "St. CYR 171 (Royer)"
+		},
+		{
+			"name": "stcyr172",
+			"desc": "St. CYR 172 (Royer)"
+		},
+		{
+			"name": "stcyr234",
+			"desc": "St. CYR 234 (Bartel 17-IC)"
+		},
+		{
+			"name": "stcyr24",
+			"desc": "St. CYR 24 (Bartel 35-IIIC)"
+		},
+		{
+			"name": "ste87151",
+			"desc": "EPPLER STE 871-514"
+		},
+		{
+			"name": "ste87391",
+			"desc": "EPPLER STE 87(-3)-914"
+		},
+		{
+			"name": "stf86361",
+			"desc": "EPPLER STF 863-615"
+		},
+		{
+			"name": "strand",
+			"desc": "STRAND"
+		},
+		{
+			"name": "supermarine371i",
+			"desc": "Supermarine 371-I (root)"
+		},
+		{
+			"name": "supermarine371ii",
+			"desc": "Supermarine 371-II (tip)"
+		},
+		{
+			"name": "t16",
+			"desc": "Drela T16"
+		},
+		{
+			"name": "tempest1",
+			"desc": "HAWKER TEMPEST 37.5% SEMISPAN"
+		},
+		{
+			"name": "tempest2",
+			"desc": "HAWKER TEMPEST 61% SEMISPAN"
+		},
+		{
+			"name": "tempest3",
+			"desc": "HAWKER TEMPEST 96.77% SEMISPAN"
+		},
+		{
+			"name": "th25816",
+			"desc": "TH 25816 HALE"
+		},
+		{
+			"name": "trainer60",
+			"desc": "TRAINER60"
+		},
+		{
+			"name": "tsagi12",
+			"desc": "TsAGI 12%"
+		},
+		{
+			"name": "tsagi8",
+			"desc": "TsAGI 8%"
+		},
+		{
+			"name": "tsagi_r3a",
+			"desc": "TsAGI R-3a (12%)"
+		},
+		{
+			"name": "ua2-180",
+			"desc": "UA(2)-180"
+		},
+		{
+			"name": "ua2-180sm",
+			"desc": "UA(2)-180 Smoothed"
+		},
+		{
+			"name": "ua79sf18",
+			"desc": "UA 79-SF-187"
+		},
+		{
+			"name": "ua79sff",
+			"desc": "UA 79-SF-187 AIRFOIL MAIN ELEMENT"
+		},
+		{
+			"name": "ua79sfm",
+			"desc": "79-SF-187 AIRFOIL MAIN ELEMENT"
+		},
+		{
+			"name": "uag8814320",
+			"desc": "UAG 88-143/20"
+		},
+		{
+			"name": "ui1720",
+			"desc": "UI-1720"
+		},
+		{
+			"name": "ultimate",
+			"desc": "ULTIMATE"
+		},
+		{
+			"name": "us1000root",
+			"desc": "US1000ROOT"
+		},
+		{
+			"name": "usa22",
+			"desc": "USA 22"
+		},
+		{
+			"name": "usa25",
+			"desc": "USA 25"
+		},
+		{
+			"name": "usa26",
+			"desc": "USA 26"
+		},
+		{
+			"name": "usa27",
+			"desc": "USA 27"
+		},
+		{
+			"name": "usa27m2",
+			"desc": "USA 27 mod."
+		},
+		{
+			"name": "usa28",
+			"desc": "USA 28"
+		},
+		{
+			"name": "usa29",
+			"desc": "USA 29"
+		},
+		{
+			"name": "usa31",
+			"desc": "USA 31"
+		},
+		{
+			"name": "usa32",
+			"desc": "USA 32"
+		},
+		{
+			"name": "usa33",
+			"desc": "USA 33"
+		},
+		{
+			"name": "usa34",
+			"desc": "USA 34"
+		},
+		{
+			"name": "usa35",
+			"desc": "USA 35"
+		},
+		{
+			"name": "usa35a",
+			"desc": "USA 35 A"
+		},
+		{
+			"name": "usa35b",
+			"desc": "USA-35B"
+		},
+		{
+			"name": "usa40",
+			"desc": "USA 40"
+		},
+		{
+			"name": "usa40b",
+			"desc": "USA 40 B"
+		},
+		{
+			"name": "usa41",
+			"desc": "USA 41"
+		},
+		{
+			"name": "usa45",
+			"desc": "USA 45"
+		},
+		{
+			"name": "usa45m",
+			"desc": "USA 45 M"
+		},
+		{
+			"name": "usa46",
+			"desc": "USA 46"
+		},
+		{
+			"name": "usa48",
+			"desc": "USA 48"
+		},
+		{
+			"name": "usa49",
+			"desc": "USA 49"
+		},
+		{
+			"name": "usa5",
+			"desc": "USA 5"
+		},
+		{
+			"name": "usa50",
+			"desc": "USA 50"
+		},
+		{
+			"name": "usa51",
+			"desc": "USA 51"
+		},
+		{
+			"name": "usa98",
+			"desc": "USA 98"
+		},
+		{
+			"name": "usnps4",
+			"desc": "USNPS4 (Smoothed)"
+		},
+		{
+			"name": "v13006",
+			"desc": "BOEING VERTOL V13006-.7"
+		},
+		{
+			"name": "v13009",
+			"desc": "BOEING VERTOL V(1.95)3009-1.25"
+		},
+		{
+			"name": "v23010",
+			"desc": "BOEING-VERTOL V23010-1.58"
+		},
+		{
+			"name": "v43012",
+			"desc": "BOEING VERTOL V43012-1.58"
+		},
+		{
+			"name": "v43015",
+			"desc": "BOEING VERTOL V43015-2.48"
+		},
+		{
+			"name": "vr1",
+			"desc": "BOEING-VERTOL VR-1"
+		},
+		{
+			"name": "vr11x",
+			"desc": "BOEING-VERTOL VR-11X"
+		},
+		{
+			"name": "vr12",
+			"desc": "BOEING-VERTOL VR-12"
+		},
+		{
+			"name": "vr13",
+			"desc": "BOEING-VERTOL VR-13"
+		},
+		{
+			"name": "vr14",
+			"desc": "BOEING-VERTOL VR-14"
+		},
+		{
+			"name": "vr15",
+			"desc": "BOEING-VERTOL VR-15"
+		},
+		{
+			"name": "vr5",
+			"desc": "BOEING-VERTOL VR-5"
+		},
+		{
+			"name": "vr7",
+			"desc": "BOEING-VERTOL VR-7"
+		},
+		{
+			"name": "vr7b",
+			"desc": "BOEING-VERTOL VR-7 AIRFOIL WITH TAB"
+		},
+		{
+			"name": "vr8",
+			"desc": "BOEING-VERTOL VR-8"
+		},
+		{
+			"name": "vr8b",
+			"desc": "BOEING-VERTOL VR-8 AIRFOIL WITH TAB"
+		},
+		{
+			"name": "vr9",
+			"desc": "BOEING-VERTOL VR-9"
+		},
+		{
+			"name": "w1011",
+			"desc": "W1011"
+		},
+		{
+			"name": "w1015",
+			"desc": "W1015"
+		},
+		{
+			"name": "waspsm",
+			"desc": "WASP (Smoothed)"
+		},
+		{
+			"name": "wb13535sm",
+			"desc": "WB-135/35 13.5% Smoothed"
+		},
+		{
+			"name": "wb140",
+			"desc": "WB-140/35/FB 14%"
+		},
+		{
+			"name": "whitcomb",
+			"desc": "WHITCOMB INTEGRAL SUPERCRITICAL"
+		},
+		{
+			"name": "ys900",
+			"desc": "YS-900"
+		},
+		{
+			"name": "ys915",
+			"desc": "YS-915"
+		},
+		{
+			"name": "ys920",
+			"desc": "YS-920"
+		},
+		{
+			"name": "ys930",
+			"desc": "YS-930"
+		},
+		{
+			"name": "zv15_35",
+			"desc": "Zv(15-35)16"
+		}
+	]
+}

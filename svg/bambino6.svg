@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-bambino6"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.12, 1, 0.12"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>Bambino 6</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0.035L0.95,-0.047L0.9,-0.057L0.8,-0.075L0.7,-0.091L0.6,-0.103L0.5,-0.114L0.4,-0.12L0.3,-0.118L0.2,-0.109L0.15,-0.1014L0.1,-0.0915L0.075,-0.085L0.05,-0.075L0.025,-0.063L0.0125,-0.0415L0,-0.03L0.0125,-0.0155L0.025,-0.01L0.05,-0.005L0.075,-0.003L0.1,-0L0.15,-0L0.2,-0L0.3,-0L0.4,-0L0.5,-0L0.6,-0L0.7,-0L0.8,-0.005L0.9,-0.02L0.95,-0.025L1,-0.035"
+    />
+</svg>

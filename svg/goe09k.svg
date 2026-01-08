@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-goe09k"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0212, 1, 0.0265"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>GOE 9K AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.0054L0.9,-0.009L0.8,-0.0148L0.7,-0.0187L0.6,-0.0209L0.5,-0.0212L0.4,-0.0205L0.3,-0.0193L0.2,-0.0167L0.15,-0.0148L0.1,-0.0122L0.05,-0.0088L0.025,-0.0063L0,-0L0.025,0.0043L0.05,0.005L0.1,0.0053L0.15,0.005L0.2,0.0048L0.3,0.0043L0.4,0.0038L0.5,0.0033L0.6,0.0028L0.7,0.0023L0.8,0.0018L0.9,0.0013L0.95,0.001L1,-0"
+    />
+</svg>

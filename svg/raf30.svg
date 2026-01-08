@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-raf30"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0632, 1, 0.1264"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>RAF 30 AIRFOIL</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.95,-0.007L0.9,-0.013L0.8,-0.025L0.7,-0.037L0.6,-0.0478L0.5,-0.0566L0.4,-0.062L0.3,-0.0632L0.2,-0.0594L0.15,-0.0544L0.1,-0.0468L0.05,-0.0346L0.025,-0.0248L0.0125,-0.018L0,-0L0.0125,0.018L0.025,0.0248L0.05,0.0346L0.1,0.0468L0.15,0.0544L0.2,0.0594L0.3,0.0632L0.4,0.062L0.5,0.0566L0.6,0.0478L0.7,0.037L0.8,0.025L0.9,0.013L0.95,0.007L1,-0"
+    />
+</svg>

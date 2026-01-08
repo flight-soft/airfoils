@@ -1,0 +1,16 @@
+
+<svg 
+  class="airfoil-marske2"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0844, 1, 0.1277"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>MARSKE PIONEER IA AIRFOIL</title>
+    <desc># NACA 23112/43012A HYBRID</desc>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0L0.9,-0.0123L0.8,-0.0244L0.7,-0.0366L0.6,-0.0506L0.5,-0.0628L0.4,-0.0729L0.3,-0.0803L0.25,-0.0828L0.2,-0.0844L0.15,-0.0834L0.1,-0.0769L0.075,-0.07L0.05,-0.0598L0.025,-0.0443L0.0125,-0.0332L0,-0L0.0125,0.0102L0.025,0.0141L0.05,0.0184L0.075,0.0217L0.1,0.0245L0.15,0.0296L0.2,0.0342L0.25,0.0377L0.3,0.0402L0.4,0.0433L0.5,0.0432L0.6,0.0408L0.7,0.0355L0.8,0.0263L0.9,0.014L1,-0"
+    />
+</svg>

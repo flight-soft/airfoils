@@ -1,0 +1,15 @@
+
+<svg 
+  class="airfoil-fg2"
+  fill="none"
+  stroke="black" 
+  stroke-width="1"
+  style="overflow:visible"
+  viewBox="0, -0.0816, 1, 0.0816"
+  xmlns="http://www.w3.org/2000/svg">
+    <title>Fage & Collins 2</title>
+    <path 
+      vector-effect="non-scaling-stroke"
+      d="M1,-0.005L0.95,-0.0185L0.9,-0.0265L0.8,-0.041L0.7,-0.053L0.6,-0.063L0.5,-0.072L0.4,-0.079L0.3,-0.0816L0.2,-0.0785L0.15,-0.072L0.1,-0.0625L0.075,-0.056L0.05,-0.0465L0.025,-0.0337L0.0125,-0.0245L0,-0.0083L0.0125,-0L0.025,-0L0.05,-0L0.075,-0L0.1,-0L0.15,-0L0.2,-0L0.3,-0L0.4,-0L0.5,-0L0.6,-0L0.7,-0L0.8,-0L0.9,-0L0.95,-0L1,-0.005"
+    />
+</svg>
