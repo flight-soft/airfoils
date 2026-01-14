@@ -1,5 +1,5 @@
 {
-  "name": "30P-30N",
+  "name": "30P-30N Flap",
   "comments": [
     "# McDonnell Douglas (MDA)",
     "#            Slat      Flap",
@@ -11,13 +11,13 @@
     "# Flap"
   ],
   "range": {
-    "count": 664,
+    "count": 242,
     "x": {
-      "min": -0.0854,
+      "min": 0.8715,
       "max": 1.1309
     },
     "y": {
-      "min": -0.0619,
+      "min": -0.0221,
       "max": 0.1458
     }
   },
