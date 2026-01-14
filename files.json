@@ -37,6 +37,14 @@
 			"desc": "30P-30N"
 		},
 		{
+			"name": "30p-30n-flap",
+			"desc": "30P-30N Flap"
+		},
+		{
+			"name": "30p-30n-slat",
+			"desc": "30P-30N Slat"
+		},		
+		{
 			"name": "a18",
 			"desc": "A18"
 		},
